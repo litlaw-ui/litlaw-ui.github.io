@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infosec Blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Infosec Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
+      <link>/posts/cobalt-strike-guide-for-red-team/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cobalt-strike-guide-for-red-team/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Cobalt Strike is software for Adversary Simulations and Red Team Operations, and is the leading C2 framework in Red Team exercises conducted today. This guide will show you how to use it and will deomnstrate some of the many features it has.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Comments? Questions? Concerns?
+Feel free to reach out to me on twitter and give me a follow @sk3rts
+You can also checkout my Github for any projects I may be working on. My Github
+Buy me a coffee
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>whoami</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My name is Matthew Toms-Zuberec, and I&amp;rsquo;m the author of this site. I made it to help share information I come across and ideas or thoughts I have.
+I am (currently) an independent security researcher and reverse engineer, and am pursuing a degree in Computer Science. I have already held multiple entry level positions, and am working towards different certifications in the information security industry.
+I have a strong background in development, both web and software, which led me to branch into security.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

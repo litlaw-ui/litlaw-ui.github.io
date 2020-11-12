@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Infosec Blog</title>
+    
+    
+    
+    <link>/posts/</link>
+    <description>Recent content in Posts on Infosec Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
+      <link>/posts/cobalt-strike-guide-for-red-team/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cobalt-strike-guide-for-red-team/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Cobalt Strike is software for Adversary Simulations and Red Team Operations, and is the leading C2 framework in Red Team exercises conducted today. This guide will show you how to use it and will deomnstrate some of the many features it has.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
