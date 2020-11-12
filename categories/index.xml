@@ -9,6 +9,7 @@
     <description>Recent content in Categories on Infosec Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2020 Matthew Toms-Zuberec | Powered By Hugo</copyright>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     

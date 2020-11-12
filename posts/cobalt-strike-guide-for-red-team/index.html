@@ -4,7 +4,7 @@
     
       <title>
         Cobalt Strike: Red Team&#39;s Best Friend ::
-        Infosec Blog — A simple theme for Hugo
+        Infosec Blog — sk3rts.me
       </title>
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -16,7 +16,7 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 />
 <meta
   name="keywords"
-  content="Information Security Blog"
+  content="Information Security Blog, infosec, privacy, hacking, cryptography, research, security, reverse engineering, sk3rts, sk3rts.me, acmkan, real-acmkan, real_acmkan, Matthew Toms-Zuberec"
 />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="/posts/cobalt-strike-guide-for-red-team/" />
@@ -201,7 +201,7 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 <p>There are two (mandatory) arguments passed to the teamserver binary, the first being the IP address it should be hosted on, and the password you will use to authenticate with through the client. Now typically in most cases, the IP address you supply should be the external IP of your server, but for this exercise we will use the local IP address of your Kali Linux machine. The teamserver runs on port 50050 by default.</p>
 <p>When the team server starts up, it will publish a SHA1 hash of the team server’s SSL certificate, which you can distribute to other team members so that they can connect.</p>
 <h2 id="starting-the-client">Starting the Client</h2>
-<p>The Cobalt Strike client connects to the team server, and provides us with a GUI to connect and manage the team server and any compromised hosts. The client can be started by running the following command:</p>
+<p>The Cobalt Strike client connects to the team server, and provides us with a GUI to connect and manage the team server and any compromised hosts. The client can be started by running the following command on your Kali VM:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">./cobaltstrike
 </code></pre></div><p>A window similar to the image below should appear:</p>
 <p><img src="../../UFW7.png" alt="Cobalt Strike Connect Popup"></p>
@@ -227,7 +227,7 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 <li>Foreign HTTP and HTTPS</li>
 </ul>
 <p>For this exercise we will stick with the <code>windows/beacon_https/reverse_https</code> as it is quick and simple.</p>
-<p><img src="../../cobstr.webp" alt="Listener Toolbar"></p>
+<p><img src="../../cobstr.jpg" alt="Listener Toolbar"></p>
 <p>Fill in the rest of requirements for this new listener by giving it an easily identifiable name, adding the IP address of your team server, and the port is should receive connections on. Then click save.</p>
 <p>Next you will be prompted for a domain. Since this is an internal lab use you can use an IP address, however while on an engagement you should supply a domain.</p>
 <p>We are now ready to create the payload. For testing purposes, I reccomend you disable Windows Defender and any other AV&rsquo;s you may have installed on it.</p>
@@ -247,16 +247,16 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 <p>Cobalt Strike comes with a vast payload creation offering, as it covers almost all commonly used techniques, which are incredibly simple to build. Unfortunately, (or fortunately depending on your situation), all common AV software has a signature for each one of the available payloads. Lucky for us, we can use various tools such as Unicorn by Dave Kennedy of TrustedSec to obfuscate the payloads.</p>
 <p>Another quick note about Beacons, is that they have easily identifiable network indicators, however they are malleable so they can be changed to avoid detection. Do not use a raw Cobalt Strike payload on an engagement, it will most definitely raise flags for the Blue Team.</p>
 <p><strong>To build a Cobalt Strike payload, click on Attacks -&gt; Packages -&gt; Payload Generator</strong></p>
-<p><img src="../../beacon.webp" alt="Cobalt Strike Payload"></p>
+<p><img src="../../beacon.jpg" alt="Cobalt Strike Payload"></p>
 <p>Choose the listener you want the payload to call back to, followed by the output format for the payload. For this demo we will use the PowerShell Command option. It creates a nice PowerShell oneliner, which can be copied into command prompt or powershell, and then executed.</p>
-<p><img src="../../payload.webp" alt="Choosing payload options"></p>
+<p><img src="../../payload.jpg" alt="Choosing payload options"></p>
 <p>Once you have generated the payload, open it using a text editor (nano and vi/vim mess with the formatting so avoid it for now), and copy the command to your clipboard.</p>
 <p>Switch over to your Windows VM and paste the command into command prompt and hit enter, or open up the run dialogue box by pressing WIN + R, and executing it there.</p>
 <p>A few seconds later you should see the Windows VM call back to the C2, and you should receive your session as seen below.</p>
 <p><img src="../../compromised.jpg" alt="Compromised machine"></p>
 <p>To be able to send shell commands to the target you have to enable interactive mode. This can be done by clicking on the chosen target and selecting &ldquo;Interact&rdquo;. This will open a new tab and then you can execute commands via the beacon prompt. You will likely spend most of your time with Cobalt Strike in the Beacon console. It’s worth your time to become familiar with the commands Cobalt Strike has to offer. Type <strong>help</strong> in the Beacon console to see available commands.</p>
 <p>During an engagement, you can control the rate at which you communicate with the target host. Most often you intentionally slow communication down in an attempt to reduce the chances of being spotted by the blue team. However while working in a lab environment, you may find the slow responses to requests frustrating, so you can set the beacon to respond instantly by typing in <code>sleep 0</code> and pressing enter.</p>
-<p><img src="../../interactive.webp" alt="Interactive"></p>
+<p><img src="../../interactive.jpg" alt="Interactive"></p>
 <p>It should be noted that all cmd/powershell commands can be used natively within beacon, but to do so you have to put the word “shell” before each command so that the beacon is able understand your request.</p>
 <h2 id="a-few-useful-features">A Few Useful Features</h2>
 <h3 id="screenshot">Screenshot</h3>
@@ -296,34 +296,8 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
         <footer class="footer">
   <div class="footer__inner">
     
-      <a
-  href="/"
-  class="logo"
-  style="text-decoration: none;"
->
-  
-    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
-  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
-</svg>
-</span>
-    <span class="logo__text"
-      >sk3rts.me</span
-    >
-    <span class="logo__cursor"></span>
-  
-</a>
-
-      <div class="copyright">
-        <span
-          >© 2020 Powered by
-          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span
-        >
-        <span
-          >Theme created by
-          <a href="https://twitter.com/panr" target="_blank" rel="noopener">panr</a></span
-        >
-      </div>
-    
+      <div class="copyright copyright--user">© 2020 Matthew Toms-Zuberec | Powered By Hugo</div>
+      
   </div>
 </footer>
 
