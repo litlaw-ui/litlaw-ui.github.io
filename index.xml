@@ -1,103 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infosec Blog</title>
-    
-    
-    
-    <link>/</link>
-    <description>Recent content on Infosec Blog</description>
+    <title>Cybersecurity Blog</title>
+    <link>https://sk3rts.rocks/</link>
+    <description>Recent content on Cybersecurity Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2020 Matthew Toms-Zuberec | Powered By Hugo</copyright>
-    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Matthew Toms-Zuberec</copyright>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
-      <link>/posts/cobalt-strike-guide-for-red-team/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Bypassing LaTeX Filters</title>
+      <link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/cobalt-strike-guide-for-red-team/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Cobalt Strike is software for Adversary Simulations and Red Team Operations, and is the leading C2 framework in Red Team exercises conducted today. This guide will show you how to use it and will deomnstrate some of the many features it has.
-          
-        
-        </description>
+      <guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid>
+      <description>Introduction In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.
+ What is LaTeX? As stated on the offical website:
+ LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+ It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.</description>
     </item>
     
     <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
+      <link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid>
+      <description>Getting Started With Cobalt Strike As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.
+As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures.</description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>/contact/</link>
+      <link>https://sk3rts.rocks/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Comments? Questions? Concerns?
+      <guid>https://sk3rts.rocks/contact/</guid>
+      <description>Comments? Questions? Concerns?
 Feel free to reach out to me on twitter and give me a follow @sk3rts
-You can also checkout my Github for any projects I may be working on. My Github
-Buy me a coffee
-          
-        
-        </description>
+You can also checkout my Github for any projects I may be working on. My Github</description>
     </item>
     
     <item>
       <title>whoami</title>
-      <link>/about/</link>
+      <link>https://sk3rts.rocks/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          My name is Matthew Toms-Zuberec, and I&amp;rsquo;m the author of this site. I made it to help share information I come across and ideas or thoughts I have.
-I am (currently) an independent security researcher and reverse engineer, and am pursuing a degree in Computer Science. I have already held multiple entry level positions, and am working towards different certifications in the information security industry.
-I have a strong background in development, both web and software, which led me to branch into security.
-          
-        
-        </description>
+      <guid>https://sk3rts.rocks/about/</guid>
+      <description>My name is Matthew Toms-Zuberec, and I&amp;rsquo;m the author of this site. I made it to help share information I come across and ideas or thoughts I have.
+I am currently a security consultant for Bulletproof Solutions, and am actively pursuing a degree in Computer Science with a focus on cybersecurity. I am an experienced information security professional, and mainly have worked as a penetration tester and red-teamer.
+I am currently working towards different certifications in the information security industry.</description>
     </item>
     
   </channel>
