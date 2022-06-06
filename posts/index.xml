@@ -65,7 +65,7 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <h3 id="how-does-it-work">How does it work?</h3>
 <p>To start, it sets the &ldquo;<strong>@</strong>&rdquo; character to represent superscript values. We use two of them to tell LaTeX to use the hex value that follows after.</p>
 <p>When compiling and generating a PDF, this bypasses the filter, as it only checks for an exact match of the blacklisted word.</p>
-<p>The superscript values haven&rsquo;t been translated to regular characters yet, so it slips right under the radar. Our superscript values are th</p>
+<p>The superscript values haven&rsquo;t been translated to regular characters yet, so it slips right under the radar.</p>
 <p>Our blacklisted commands then run :)
 <strong>— MTZ</strong></p>
 <p><em>Checkout <a href="https://seethespread.com">https://seethespread.com</a>!</em></p>
