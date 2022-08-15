@@ -1,0 +1,74 @@
+baseurl = "https://sk3rts.rocks"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+paginate = 5
+googleAnalytics = "UA-182810159-1"
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  
+  # Subtitle for home
+  homeSubtitle = "News on Cybersecurity, Malware, Hacking, Programming, and Information Security. Curated and Written by Matthew Toms-Zuberec"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "News on Cybersecurity, Malware, Hacking, Programming, and Infosec. Curated and Written by Matthew Toms-Zuberec"
+  keywords = "Information Security Blog, infosec, privacy, hacking, cryptography, research, security, reverse engineering, sk3rts, sk3rts.me, acmkan, real-acmkan, real_acmkan, Matthew Toms-Zuberec"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+# Social icons
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/sk3rts"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/real-acmkan"
+
+[languages]
+  [languages.en]
+    title = "Cybersecurity Blog"
+    subtitle = "sk3rts.rocks"
+    keywords = "Information Security Blog, infosec, privacy, hacking, cryptography, research, security, reverse engineering, sk3rts, sk3rts.me, acmkan, real-acmkan, real_acmkan, Matthew Toms-Zuberec"
+    copyright = "Matthew Toms-Zuberec"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "sk3rts.rocks"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Contact"
+        url = "/contact"
+      [[languages.en.menu.main]]
+        identifier = "icymi"
+        name       = "ICYMI"
+        url        = "/icymi"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name       = "Blog"
+        url        = "/posts"
