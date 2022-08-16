@@ -21,4 +21,5 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         python script/update.py
-        git commit -am "Automatically update ICYMI" && git push
+        git add .
+        git commit -m "Automatically update ICYMI" && git push
