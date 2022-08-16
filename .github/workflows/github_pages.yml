@@ -23,8 +23,7 @@ jobs:
 
       - name: Build
         run: |
-          pwd
-          ls -la
+          ls -la themes
           hugo --minify
 
       - name: Deploy
