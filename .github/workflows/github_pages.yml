@@ -2,8 +2,6 @@ name: github pages
 
 on:
   push:
-    branches:
-      - master  # Set a branch to deploy
   pull_request:
   workflow_dispatch:
 jobs:
@@ -28,7 +26,8 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: master
+          
