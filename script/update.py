@@ -52,7 +52,7 @@ for site in site_list:
                 except Exception as e:
                     print(e)
 
-f = open("../content/icymi/icymi-" + str(yesterday) + ".md", 'w+')
+f = open("content/icymi/icymi-" + str(yesterday) + ".md", 'w+')
 f.write(header)
 for p in posts:
     # if(p["thumbnail"] != ""):
