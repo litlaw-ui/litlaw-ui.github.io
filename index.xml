@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity Blog</title>
+    <link>https://sk3rts.rocks/</link>
+    <description>Recent content on Cybersecurity Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Matthew Toms-Zuberec</copyright>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICYMI: 2022-08-14</title>
+      <link>https://sk3rts.rocks/icymi/icymi-2022-08-14/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sk3rts.rocks/icymi/icymi-2022-08-14/</guid>
+      <description>Latest Headlines   Tornado Cash Developer Arrested After U.S. Sanctions the Cryptocurrency Mixer
+  How to Create a Secure Folder on Your Phone
+  A New Tractor Jailbreak Rides the Right-to-Repair Wave
+  Over 9,000 VNC servers exposed online without a password
+  &amp;ndash; MTZ</description>
+    </item>
+    
+    <item>
+      <title>Bypassing LaTeX Filters</title>
+      <link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid>
+      <description>Introduction In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.
+ What is LaTeX? As stated on the offical website:
+ LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+ It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.</description>
+    </item>
+    
+    <item>
+      <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
+      <link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid>
+      <description>Getting Started With Cobalt Strike As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.
+As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://sk3rts.rocks/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sk3rts.rocks/contact/</guid>
+      <description>Comments? Questions? Concerns?
+Feel free to reach out to me on twitter and give me a follow @sk3rts
+You can also checkout my Github for any projects I may be working on. My Github</description>
+    </item>
+    
+    <item>
+      <title>whoami</title>
+      <link>https://sk3rts.rocks/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sk3rts.rocks/about/</guid>
+      <description>My name is Matthew Toms-Zuberec, and I&amp;rsquo;m the author of this site. I made it to help share information I come across and ideas or thoughts I have.
+I am currently a security consultant for Bulletproof Solutions, and am actively pursuing a degree in Computer Science with a focus on cybersecurity. I am an experienced information security professional, and mainly have worked as a penetration tester and red-teamer.
+I am currently working towards different certifications in the information security industry.</description>
+    </item>
+    
+  </channel>
+</rss>
