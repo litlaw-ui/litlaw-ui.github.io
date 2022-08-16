@@ -1,25 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Cybersecurity Blog</title>
-        <link>https://sk3rts.rocks/posts/</link>
-        <description>Recent content in Posts on Cybersecurity Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Matthew Toms-Zuberec</copyright>
-        <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://sk3rts.rocks/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Bypassing LaTeX Filters</title>
-            <link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link>
-            <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid>
-            <description>Introduction In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.
- What is LaTeX? As stated on the offical website:
- LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
- It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.</description>
-            <content type="html"><![CDATA[<hr>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cybersecurity Blog</title><link>https://sk3rts.rocks/posts/</link><description>Recent content in Posts on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Bypassing LaTeX Filters</title><link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link><pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid><description>Introduction In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.
+What is LaTeX? As stated on the offical website:
+LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.</description><content type="html"><![CDATA[<hr>
 <h2 id="introduction">Introduction</h2>
 <p>In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&rsquo;s functionality to bypass filters and attack web based LaTeX compilers.</p>
 <h1 id="heading"></h1>
@@ -54,14 +36,14 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <p>The typical bypass that most people use involves <strong>\def</strong>, however, that can easily be stopped/blocked.</p>
 <p>The method I have developed today is similar, but much more powerful. We can abuse the <code>\catcode`\</code> function, and trick LaTex into using the hexadecimal value of a character instead.</p>
 <p>The following example is to read the contents of the file <code>secrets.txt</code> located in <code>/tmp/</code>, where the <code>input</code> command is blacklisted.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#ae81ff">\d</span>ocumentclass<span style="color:#f92672">{</span>article<span style="color:#f92672">}</span>
-
-<span style="color:#ae81ff">\c</span>atcode<span style="color:#e6db74">`</span><span style="color:#ae81ff">\@</span><span style="color:#f92672">=</span><span style="color:#ae81ff">7</span>
-
-<span style="color:#ae81ff">\b</span>egin<span style="color:#f92672">{</span>document<span style="color:#f92672">}</span>
-<span style="color:#ae81ff">\i</span>n@@70ut<span style="color:#f92672">{</span>@@2ftmp@@2fsecrets.txt<span style="color:#f92672">}</span>
-<span style="color:#ae81ff">\e</span>nd<span style="color:#f92672">{</span>document<span style="color:#f92672">}</span>
-</code></pre></div><h1 id="heading-4"></h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span><span style="color:#ae81ff">\d</span>ocumentclass<span style="color:#f92672">{</span>article<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">\c</span>atcode<span style="color:#e6db74">`</span><span style="color:#ae81ff">\@</span><span style="color:#f92672">=</span><span style="color:#ae81ff">7</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">\b</span>egin<span style="color:#f92672">{</span>document<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">\i</span>n@@70ut<span style="color:#f92672">{</span>@@2ftmp@@2fsecrets.txt<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">\e</span>nd<span style="color:#f92672">{</span>document<span style="color:#f92672">}</span>
+</span></span></code></pre></div><h1 id="heading-4"></h1>
 <h3 id="how-does-it-work">How does it work?</h3>
 <p>To start, it sets the &ldquo;<strong>@</strong>&rdquo; character to represent superscript values. We use two of them to tell LaTeX to use the hex value that follows after.</p>
 <p>When compiling and generating a PDF, this bypasses the filter, as it only checks for an exact match of the blacklisted word.</p>
@@ -69,18 +51,8 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <p>Our blacklisted commands then run :)
 <strong>— MTZ</strong></p>
 <p><em>Checkout <a href="https://seethespread.com">https://seethespread.com</a>!</em></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Cobalt Strike: Red Team&#39;s Best Friend</title>
-            <link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link>
-            <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid>
-            <description>Getting Started With Cobalt Strike As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.
-As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures.</description>
-            <content type="html"><![CDATA[<hr>
+]]></content></item><item><title>Cobalt Strike: Red Team's Best Friend</title><link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid><description>Getting Started With Cobalt Strike As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.
+As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures.</description><content type="html"><![CDATA[<hr>
 <h2 id="getting-started-with-cobalt-strike">Getting Started With Cobalt Strike</h2>
 <p>As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.</p>
 <p>As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures. In this post, I will quickly demonstrate how to get Cobalt Strike up and running on your system, setting up a listener, and interacting with a target machine.</p>
@@ -97,14 +69,14 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 <p>The first step is to start the Cobalt Strike team server, as it is the C2 server that all compromised targets will beacon back to. It is also where you also connect to for managing and controlling your compromised targets.</p>
 <p>For this tutorial/lab, I&rsquo;ll assume you already have a Cobalt Strike license, and we will be setting up the teamserver on your instance of Kali Linux. However, when on an engagement, you should avoid running the C2 server off your own machine, and should have a VPS or dedicated server. It is also good OPSEC to set up redirects/domain fronting while on an engagement, so that the blue team doesn&rsquo;t cripple your C2 by blocking the IP address or domain you are using.</p>
 <p>You can start the team server using the following command:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">./teamserver local-ip-address password-of-your-choice
-</code></pre></div><h4 id="quick-breakdown-of-the-command">Quick Breakdown of the command:</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./teamserver local-ip-address password-of-your-choice
+</span></span></code></pre></div><h4 id="quick-breakdown-of-the-command">Quick Breakdown of the command:</h4>
 <p>There are two (mandatory) arguments passed to the teamserver binary, the first being the IP address it should be hosted on, and the password you will use to authenticate with through the client. Now typically in most cases, the IP address you supply should be the external IP of your server, but for this exercise we will use the local IP address of your Kali Linux machine. The teamserver runs on port 50050 by default.</p>
 <p>When the team server starts up, it will publish a SHA1 hash of the team server’s SSL certificate, which you can distribute to other team members so that they can connect.</p>
 <h2 id="starting-the-client">Starting the Client</h2>
 <p>The Cobalt Strike client connects to the team server, and provides us with a GUI to connect and manage the team server and any compromised hosts. The client can be started by running the following command on your Kali VM:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">./cobaltstrike
-</code></pre></div><p>A window similar to the image below should appear:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./cobaltstrike
+</span></span></code></pre></div><p>A window similar to the image below should appear:</p>
 <p><img src="../../UFW7.png" alt="Cobalt Strike Connect Popup"></p>
 <p>There are 4 self explanatory input fields: Host, Port, User, and Password. It should be noted that the &ldquo;user&rdquo; field is just a nickname, and is what will be displayed to other team members connected to the server.</p>
 <p>In this case, you should put your local IP address as the host, choose a username, and enter the password. Then, click connect, and wait for the next prompt to appear.</p>
@@ -176,8 +148,4 @@ As some of you may be aware, Cobalt Strike is software for Adversary Simulations
 <p>There are multiple commands for lateral movement, including: <code>psexec</code>, <code>psexec_psh</code>, <code>winrm</code>, and <code>wmi</code>. All of the commands accept a target and listener name. The <code>psexec</code> command requires that you specify a share, as it drops an executable to that share.</p>
 <p>While these commands are nice, it can be easier in some cases to do lateral movement by hand as it gives more flexibility.</p>
 <p><strong>— MTZ</strong></p>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+]]></content></item></channel></rss>
