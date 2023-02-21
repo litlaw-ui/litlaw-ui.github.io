@@ -2,9 +2,9 @@
 title = "whoami"
 +++
 
-My name is Matthew Toms-Zuberec, and I'm the author of this site. I made it to help share information I come across and ideas or thoughts I have.
+My name is Matthew Toms-Zuberec and I'm the author of this site. I made it to help share information I come across and ideas or thoughts I have.
 
-I am currently a security consultant for Bulletproof Solutions, and am actively pursuing a degree in Computer Science with a focus on cybersecurity. I am an experienced information security professional, and mainly have worked as a penetration tester and red-teamer.
+I am currently an independent security researcher and am actively pursuing a degree in Computer Science with a focus on cybersecurity. I am an experienced information security professional and have mainly worked as a penetration tester and red-teamer.
 
 I am currently working towards different certifications in the information security industry.
 
