@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-03-01</title><link>https://sk3rts.rocks/icymi/icymi-2023-03-01/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-03-01/</guid><description>Latest Headlines Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-03-04</title><link>https://sk3rts.rocks/icymi/icymi-2023-03-04/</link><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-03-04/</guid><description>Latest Headlines Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery
+New FiXS ATM Malware Targeting Mexican Banks
+The LastPass Hack Somehow Gets Worse
+What to Do When Your Boss Is Spying on You
+The High-Stakes Blame Game in the White House Cybersecurity Plan
+EPA Mandates States Report on Cyber Threats to Water Systems
+Ransomware gang leaks data stolen from City of Oakland
+Bing Chat has a secret ‘Celebrity’ mode to impersonate celebrities</description></item><item><title>ICYMI: 2023-03-03</title><link>https://sk3rts.rocks/icymi/icymi-2023-03-03/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-03-03/</guid><description>Latest Headlines New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices
+Chinese Hackers Targeting European Entities with New MQsTTang Backdoor
+U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware&amp;rsquo;s Deadly Capabilities
+Highlights from the New U.S. Cybersecurity Strategy
+The Sketchy Plan to Build a Russian Android Phone
+Thousands of Websites Hijacked Using Compromised FTP Credentials
+Organizations Warned of Royal Ransomware Attacks
+Industry Experts Analyze US National Cybersecurity Strategy</description></item><item><title>ICYMI: 2023-03-02</title><link>https://sk3rts.rocks/icymi/icymi-2023-03-02/</link><pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-03-02/</guid><description>Latest Headlines Hackers Exploit Containerized Environments to Steals Proprietary Data and Software
+New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers
+2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots
+Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI
+SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics
+Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack
+This Hacker Tool Can Pinpoint a DJI Drone Operator&amp;rsquo;s Exact Location</description></item><item><title>ICYMI: 2023-03-01</title><link>https://sk3rts.rocks/icymi/icymi-2023-03-01/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-03-01/</guid><description>Latest Headlines Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware
 BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11
 CISOs Are Stressed Out and It&amp;rsquo;s Putting Companies at Risk
 Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy
