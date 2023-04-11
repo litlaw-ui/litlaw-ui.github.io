@@ -16,7 +16,7 @@ footer = "**-- MTZ**"
 
 # List of RSS feeds
 site_list = ["https://threatpost.com/feed/", "https://feeds.feedburner.com/TheHackersNews?format=xml", "https://krebsonsecurity.com/feed/", "https://www.wired.com/feed/category/security/latest/rss", "http://feeds.feedburner.com/securityweek?format=xml", "https://cybersecuritynews.com/feed/", "https://www.bleepingcomputer.com/feed/"]
-date_req = requests.get("https://worldtimeapi.org/api/timezone/America/Edmonton")
+# date_req = requests.get("https://worldtimeapi.org/api/timezone/America/Edmonton")
 
 # Get yesterday and convert it to a time struct
 today = datetime.date.today()
