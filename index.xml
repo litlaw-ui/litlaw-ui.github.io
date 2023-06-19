@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-05-22</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-22/</link><pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-22/</guid><description>Latest Headlines EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-06-18</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-18/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-18/</guid><description>Latest Headlines Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
+Microsoft Says Early June Disruptions to Outlook, Cloud Platform, Were Cyberattacks
+Top 11 Best SysAdmin Tools in 2023
+Reddit hackers threaten to leak data stolen in February breach
+New Mystic Stealer malware increasingly used in attacks
+Microsoft confirms Azure, Outlook outages caused by DDoS attacks
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-06-17</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-17/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-17/</guid><description>Latest Headlines From Cryptojacking to DDoS Attacks: Diicot Expands Tactics with Cayosin Botnet
+A Newly Named Group of GRU Hackers is Wreaking Havoc in Ukraine
+US govt offers $10 million bounty for info on Clop ransomware
+Windows 11 &amp;lsquo;Win32 app isolation&amp;rsquo; security feature now in preview
+SMS delivery reports can be used to infer recipient&amp;rsquo;s location
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-06-16</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-16/</link><pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-16/</guid><description>Latest Headlines ChamelDoH: New Linux Backdoor Utilizing DNS-over-HTTPS Tunneling for Covert CnC
+Activities in the Cybercrime Underground Require a New Approach to Cybersecurity
+20-Year-Old Russian LockBit Ransomware Affiliate Arrested in Arizona
+Third Flaw Uncovered in MOVEit Transfer App Amidst Cl0p Ransomware Mass Attack
+Clop Hacking Rampage Hits US Agencies and Exposes Data of Millions
+In Other News: Linux Kernel Exploits, Update on BEC Losses, Cybersecurity Awareness Act
+Russian National Arrested, Charged in US Over Role in LockBit Ransomware Attacks</description></item><item><title>ICYMI: 2023-06-15</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-15/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-15/</guid><description>Latest Headlines Ransomware Hackers and Scammers Utilizing Cloud Mining to Launder Cryptocurrency
+Chinese UNC4841 Group Exploits Zero-Day Flaw in Barracuda Email Security Gateway
+Vidar Malware Using New Tactics to Evade Detection and Anonymize Activities
+Warning: GravityRAT Android Trojan Steals WhatsApp Backups and Deletes Files
+New Research: 6% of Employees Paste Sensitive Data into GenAI tools as ChatGPT
+New Supply Chain Attack Exploits Abandoned S3 Buckets to Distribute Malicious Binaries</description></item><item><title>ICYMI: 2023-06-14</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-14/</link><pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-14/</guid><description>Latest Headlines Chinese Hackers Exploit VMware Zero-Day to Backdoor Windows and Linux Systems
+Severe Vulnerabilities Reported in Microsoft Azure Bastion and Container Registry
+New Golang-based Skuld Malware Stealing Discord and Browser Data from Windows PCs
+Where from, Where to — The Evolution of Network Security
+Fake Researcher Profiles Spread Malware through GitHub Repositories as PoC Exploits
+Critical Security Vulnerability Discovered in WooCommerce Stripe Gateway Plugin
+Microsoft Releases Updates to Patch Critical Flaws in Windows and Other Software</description></item><item><title>ICYMI: 2023-06-13</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-13/</link><pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-13/</guid><description>Latest Headlines Beware: New DoubleFinger Loader Targets Cryptocurrency Wallets with Stealer
+Over Half of Security Leaders Lack Confidence in Protecting App Secrets, Study Reveals
+Adversary-in-the-Middle Attack Campaign Hits Dozens of Global Organizations
+Webinar - Mastering API Security: Understanding Your True Attack Surface
+Two Russian Nationals Charged for Masterminding Mt. Gox Crypto Exchange Hack
+Critical FortiOS and FortiProxy Vulnerability Likely Exploited - Patch Now!
+Microsoft Patch Tuesday, June 2023 Edition</description></item><item><title>ICYMI: 2023-06-12</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-12/</link><pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-12/</guid><description>Latest Headlines Researchers Uncover Publisher Spoofing Bug in Microsoft Visual Studio Installer
+Why Now? The Rise of Attack Surface Management
+Cybercriminals Using Powerful BatCloak Engine to Make Malware Fully Undetectable
+Password Reset Hack Exposed in Honda&amp;rsquo;s E-Commerce Platform, Dealers Data at Risk
+Beware: 1,000+ Fake Cryptocurrency Sites Trap Users in Bogus Rewards Scheme
+Critical RCE Flaw Discovered in Fortinet FortiGate Firewalls - Patch Now!
+Apple&amp;rsquo;s Safari Private Browsing Now Automatically Removes Tracking Parameters in URLs</description></item><item><title>ICYMI: 2023-06-11</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-11/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-11/</guid><description>Latest Headlines Talitrix Prison-Monitoring System Tracks Inmates Down to Their Heart Rate
+Half&amp;amp;Half – Intel Processor’s Hidden Security Feature Stop Attack Against Spectre Like Vulnerabilities
+What is SYN Attack? How Does the Attack Works ?
+What is the Difference Between Authentication vs Authorization?
+Fortinet fixes critical RCE flaw in Fortigate SSL-VPN devices, patch now
+Strava heatmap feature can be abused to find home addresses
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-06-10</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-10/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-10/</guid><description>Latest Headlines New SPECTRALVIPER Backdoor Targeting Vietnamese Public Companies
+New Critical MOVEit Transfer SQL Injection Vulnerabilities Discovered - Patch Now!
+9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-06-09</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-09/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-09/</guid><description>Latest Headlines Microsoft Uncovers Banking AitM Phishing and BEC Attacks Targeting Financial Giants
+Asylum Ambuscade: A Cybercrime Group with Espionage Ambitions
+5 Reasons Why Access Management is the Key to Securing the Modern Workplace
+Stealth Soldier: A New Custom Backdoor Targets North Africa with Espionage Attacks
+In Other News: AI Regulation, Layoffs, US Aerospace Attacks, Post-Quantum Encryption
+Blackpoint Raises $190 Million to Help MSPs Combat Cyber Threats
+Google Introduces SAIF, a Framework for Secure AI Development and Use</description></item><item><title>ICYMI: 2023-06-08</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-08/</link><pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-08/</guid><description>Latest Headlines Experts Unveil Exploit for Recent Windows Vulnerability Under Active Exploitation
+Clop Ransomware Gang Likely Aware of MOVEit Transfer Vulnerability Since 2021
+How to Improve Your API Security Posture
+Urgent Security Updates: Cisco and VMware Address Critical Vulnerabilities
+Kimsuky Targets Think Tanks and News Media with Social Engineering Attacks
+Barracuda Urges Immediate Replacement of Hacked ESG Appliances
+Barracuda Urges Replacing — Not Patching — Its Email Security Gateways</description></item><item><title>ICYMI: 2023-06-07</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-07/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-07/</guid><description>Latest Headlines Microsoft to Pay $20 Million Penalty for Illegally Collecting Kids&amp;rsquo; Data on Xbox
+Winning the Mind Game: The Role of the Ransomware Negotiator
+New PowerDrop Malware Targeting U.S. Aerospace Industry
+The Bold Plan to Create Cyber 311 Hotlines
+Sysdig Introduces CNAPP With Realtime CDR
+Stay Focused on What’s Important
+VMware Plugs Critical Flaws in Network Monitoring Product
+Hackers Issue ‘Ultimatum’ Over Payroll Data Breach
+US, Israel Provide Guidance on Securing Remote Access Software</description></item><item><title>ICYMI: 2023-06-06</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-06/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-06/</guid><description>Latest Headlines New Malware Campaign Leveraging Satacom Downloader to Steal Cryptocurrency
+Over 60K Adware Apps Posing as Cracked Versions of Popular Apps Target Android Devices
+5 Reasons Why IT Security Tools Don&amp;rsquo;t Work For OT
+Zero-Day Alert: Google Issues Patch for New Chrome Vulnerability - Update Now!
+Cyclops Ransomware Gang Offers Go-Based Info Stealer to Cybercriminals
+Chinese PostalFurious Gang Strikes UAE Users with Sneaky SMS Phishing Scheme
+Zyxel Firewalls Under Attack!</description></item><item><title>ICYMI: 2023-06-05</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-05/</link><pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-05/</guid><description>Latest Headlines Microsoft: Lace Tempest Hackers Behind Active Exploitation of MOVEit Transfer App
+The Annual Report: 2024 Plans and Priorities for SaaS Security
+Magento, WooCommerce, WordPress, and Shopify Exploited in Web Skimmer Attack
+Brazilian Cybercriminals Using LOLBaS and CMD Scripts to Drain Bank Accounts
+Alarming Surge in TrueBot Activity Revealed with New Delivery Vectors
+Apple Expands Its On-Device Nudity Detection to Combat CSAM
+Hacks Against Ukraine&amp;rsquo;s Emergency Response Services Rise During Bombings</description></item><item><title>ICYMI: 2023-06-04</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-04/</link><pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-04/</guid><description>Latest Headlines 25 Best Cloud Service Providers (Public and Private) in 2023
+10 Best SIEM Tools for SOC Operations – 2023
+Windows 11 Moment 3 hands on, here&amp;rsquo;s everything new
+Atomic Wallet hacks lead to over $35 million in crypto stolen
+CISA orders govt agencies to patch MOVEit bug used for data theft
+Hackers hijack legitimate sites to host credit card stealer scripts
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-06-03</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-03/</link><pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-03/</guid><description>Latest Headlines New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal
+Cloud Security Tops Concerns for Cybersecurity Leaders: EC-Council&amp;rsquo;s Certified CISO Hall of Fame Report 2023
+FTC Slams Amazon with $30.8M Fine for Privacy Violations Involving Alexa and Ring
+AI Is Being Used to ‘Turbocharge’ Scams
+How AI Protects (and Attacks) Your Inbox
+Insider Q&amp;amp;A: Artificial Intelligence and Cybersecurity In Military Tech
+In Other News: Government Use of Spyware, New Industrial Security Tools, Japan Router Hack</description></item><item><title>ICYMI: 2023-06-02</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-02/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-02/</guid><description>Latest Headlines New Botnet Malware &amp;lsquo;Horabot&amp;rsquo; Targets Spanish-Speaking Users in Latin America
+The Importance of Managing Your Data Security Posture
+Camaro Dragon Strikes with New TinyNote Backdoor for Intelligence Gathering
+North Korea&amp;rsquo;s Kimsuky Group Mimics Key Figures in Targeted Cyber Attacks
+MOVEit Transfer Under Attack: Zero-Day Vulnerability Actively Being Exploited
+The Messy US Influence That’s Helping Iranians Stay Online
+OpenAI Unveils Million-Dollar Cybersecurity Grant Program
+Galvanick Banks $10 Million for Industrial XDR Technology</description></item><item><title>ICYMI: 2023-06-01</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-01/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-01/</guid><description>Latest Headlines Evasive QBot Malware Leverages Short-lived Residential IPs for Dynamic Attacks
+New Zero-Click Hack Targets iOS Users with Stealthy Root-Privilege Malware
+Unmasking XE Group: Experts Reveal Identity of Suspected Cybercrime Kingpin
+Malicious PyPI Packages Using Compiled Python Code to Bypass Detection
+How Wazuh Improves IT Hygiene for Cyber Security Resilience
+Improved BlackCat Ransomware Strikes with Lightning Speed and Stealthy Tactics
+N. Korean ScarCruft Hackers Exploit LNK Files to Spread RokRAT</description></item><item><title>ICYMI: 2023-05-31</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-31/</link><pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-31/</guid><description>Latest Headlines Cybercriminals Targeting Apache NiFi Instances for Cryptocurrency Mining
+Critical Firmware Vulnerability in Gigabyte Systems Exposes ~7 Million Devices
+Beware of Ghost Sites: Silent Threat Lurking in Your Salesforce Communities
+Microsoft Details Critical Apple macOS Vulnerability Allowing SIP Protection Bypass
+6 Steps to Effectively Threat Hunting: Safeguard Critical Assets and Fight Cybercrime
+Dark Pink APT Group Leverages TelePowerBot and KamiKakaBot in Sophisticated Attacks
+RomCom RAT Using Deceptive Web of Rogue Software Sites for Covert Attacks</description></item><item><title>ICYMI: 2023-05-30</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-30/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-30/</guid><description>Latest Headlines Hackers Win $105,000 for Reporting Critical Security Flaws in Sonos One Speakers
+CAPTCHA-Breaking Services with Human Solvers Helping Cybercriminals Defeat Security
+Implementing Risk-Based Vulnerability Discovery and Remediation
+Sneaky DogeRAT Trojan Poses as Popular Apps, Targets Indian Android Users
+PyPI Enforcing 2FA for All Project Maintainers to Boost Security
+Personal Information of 9 Million Individuals Stolen in MCNA Ransomware Attack
+Many Vulnerabilities Found in PrinterLogic Enterprise Software
+New Wi-Fi MITM Attack That Can Evade WPA3 Security Mechanisms</description></item><item><title>ICYMI: 2023-05-29</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-29/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-29/</guid><description>Latest Headlines New BrutePrint Attack Lets Attackers Unlock Smartphones with Fingerprint Brute-Force
+AceCryptor: Cybercriminals&amp;rsquo; Powerful Weapon, Detected in 240K+ Attacks
+3 Challenges in Building a Continuous Threat Exposure Management (CTEM) Program and How to Beat Them
+New GobRAT Remote Access Trojan Targeting Linux Routers in Japan
+Don&amp;rsquo;t Click That ZIP File! Phishers Weaponizing .ZIP Domains to Trick Victims
+PyPI Implements Mandatory Two-Factor Authentication for Project Owners
+Why Do You Need a Cloud-native Web Application Firewall (WAF)?</description></item><item><title>ICYMI: 2023-05-28</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-28/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-28/</guid><description>Latest Headlines Clever ‘File Archiver In The Browser’ phishing trick uses ZIP domains
+PyPI announces mandatory use of 2FA for all software publishers
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-05-27</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-27/</link><pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-27/</guid><description>Latest Headlines New Stealthy Bandit Stealer Targeting Web Browsers and Cryptocurrency Wallets
+Critical OAuth Vulnerability in Expo Framework Allows Account Hijacking
+Netflix’s Password-Sharing Crackdown Has Hit the US
+Industrial Giant ABB Confirms Ransomware Attack, Data Theft
+Tesla Data Leak Exposes Thousands Of Safety Complaints
+Windows XP Activation Algorithm Cracked – Works With Linux
+CISA warns govt agencies of recently patched Barracuda zero-day
+QBot malware abuses Windows WordPad EXE to infect devices</description></item><item><title>ICYMI: 2023-05-26</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-26/</link><pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-26/</guid><description>Latest Headlines Severe Flaw in Google Cloud&amp;rsquo;s Cloud SQL Service Exposed Confidential Data
+Predator Android Spyware: Researchers Uncover New Data Theft Capabilities
+5 Must-Know Facts about 5G Network Security and Its Cloud Benefits
+New COSMICENERGY Malware Exploits ICS Protocol to Sabotage Power Grids
+Barracuda Warns of Zero-Day Exploited to Breach Email Security Gateway Appliances
+Phishing Domains Tanked After Meta Sued Freenom
+Organizations Worldwide Targeted in Rapidly Evolving Buhti Ransomware Operation</description></item><item><title>ICYMI: 2023-05-25</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-25/</link><pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-25/</guid><description>Latest Headlines Dark Frost Botnet Launches Devastating DDoS Attacks on Gaming Industry
+Zyxel Issues Critical Security Patches for Firewall and VPN Products
+Cynet Protects Hospital From Lethal Infection
+New PowerExchange Backdoor Used in Iranian Cyber Attack on UAE Government
+Alert: Brazilian Hackers Targeting Users of Over 30 Portuguese Banks
+Webinar with Guest Forrester: Browser Security New Approaches
+Buhti Ransomware Gang Switches Tactics, Utilizes Leaked LockBit and Babuk Code
+China&amp;rsquo;s Stealthy Hackers Infiltrate U.</description></item><item><title>ICYMI: 2023-05-24</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-24/</link><pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-24/</guid><description>Latest Headlines Iranian Tortoiseshell Hackers Targeting Israeli Logistics Industry
+What to Look for When Selecting a Static Application Security Testing (SAST) Solution
+Data Stealing Malware Discovered in Popular Android Screen Recorder App
+Legion Malware Upgraded to Target SSH Servers and AWS Credentials
+N. Korean Lazarus Group Targets Microsoft IIS Servers to Deploy Espionage Malware
+Cyber Attacks Strike Ukraine&amp;rsquo;s State Bodies in Espionage Operation
+China Hacks US Critical Networks in Guam, Raising Cyberwar Fears</description></item><item><title>ICYMI: 2023-05-23</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-23/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-23/</guid><description>Latest Headlines GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments
+North Korean Kimsuky Hackers Strike Again with Advanced Reconnaissance Malware
+The Rising Threat of Secrets Sprawl and the Need for Action
+New WinTapix.sys Malware Engages in Multi-Stage Attack Across Middle East
+China Bans U.S. Chip Giant Micron, Citing &amp;ldquo;Serious Cybersecurity Problems&amp;rdquo;
+Interview With a Crypto Scam Investment Spammer
+Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto</description></item><item><title>ICYMI: 2023-05-22</title><link>https://sk3rts.rocks/icymi/icymi-2023-05-22/</link><pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-05-22/</guid><description>Latest Headlines EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations
 Indonesian Cybercriminals Exploit AWS for Profitable Crypto Mining Operations
 Bad Magic&amp;rsquo;s Extended Reign in Cyber Espionage Goes Back Over a Decade
 Are Your APIs Leaking Sensitive Data?
