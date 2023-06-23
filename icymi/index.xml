@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-06-20</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-20/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-20/</guid><description>Latest Headlines Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-06-22</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-22/</link><pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-22/</guid><description>Latest Headlines MULTI#STORM Campaign Targets India and U.S. with Remote Access Trojans
+Generative-AI apps &amp;amp; ChatGPT: Potential risks and mitigation strategies
+Alert: Million of GitHub Repositories Likely Vulnerable to RepoJacking Attack
+Camaro Dragon Hackers Strike with USB-Driven Self-Propagating Malware
+Unveiling the Unseen: Identifying Data Exfiltration with Machine Learning
+Critical Flaw Found in WordPress Plugin for WooCommerce Used by 30,000 Websites
+Zero-Day Alert: Apple Releases Patches for Actively Exploited Flaws in iOS, macOS, and Safari</description></item><item><title>ICYMI: 2023-06-21</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-21/</link><pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-21/</guid><description>Latest Headlines ScarCruft Hackers Exploit Ably Service for Stealthy Wiretapping Attacks
+New Report Exposes Operation Triangulation&amp;rsquo;s Spyware Implant Targeting iOS Devices
+Startup Security Tactics: Friction Surveys
+Critical &amp;rsquo;nOAuth&amp;rsquo; Flaw in Microsoft Azure AD Enabled Complete Account Takeover
+Chinese Hacker Group &amp;lsquo;Flea&amp;rsquo; Targets American Ministries with Graphican Backdoor
+New Condi Malware Hijacking TP-Link Wi-Fi Routers for DDoS Botnet Attacks
+Alert! Hackers Exploiting Critical Vulnerability in VMware&amp;rsquo;s Aria Operations Networks
+Why Malware Crypting Services Deserve More Scrutiny</description></item><item><title>ICYMI: 2023-06-20</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-20/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-20/</guid><description>Latest Headlines Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products
 Zyxel Releases Urgent Security Updates for Critical Vulnerability in NAS Devices
 SaaS in the Real World: How Global Food Chains Can Secure Their Digital Dish
 Experts Uncover Year-Long Cyber Attack on IT Firm Utilizing Custom Malware RDStealer
