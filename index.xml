@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-06-26</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-26/</link><pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-26/</guid><description>Latest Headlines Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-06-28</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-28/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-28/</guid><description>Latest Headlines Alert: New Electromagnetic Attacks on Drones Could Let Attackers Take Control
+CryptosLabs Scam Ring Targets French-Speaking Investors, Rakes in €480 Million
+5 Things CISOs Need to Know About Securing OT Environments
+8Base Ransomware Spikes in Activity, Threatens U.S. and Brazilian Businesses
+Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution
+How Your Real Flight Reservation Can Be Used to Scam You
+Venn Software Snags $29M to build MDM for Laptops Technology</description></item><item><title>ICYMI: 2023-06-27</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-27/</link><pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-27/</guid><description>Latest Headlines New Mockingjay Process Injection Technique Could Let Malware Evade Detection
+New Ongoing Campaign Targets npm Ecosystem with Unique Execution Chain
+Beyond Asset Discovery: How Attack Surface Management Prioritizes Vulnerability Remediation
+EncroChat Bust Leads to 6,558 Criminals&amp;rsquo; Arrests and €900 Million Seizure
+Anatsa Banking Trojan Targeting Users in US, UK, Germany, Austria, and Switzerland
+New Fortinet&amp;rsquo;s FortiNAC Vulnerability Exposes Networks to Code Execution Attacks
+U.K. Cyber Thug “PlugwalkJoe” Gets 5 Years in Prison</description></item><item><title>ICYMI: 2023-06-26</title><link>https://sk3rts.rocks/icymi/icymi-2023-06-26/</link><pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-06-26/</guid><description>Latest Headlines Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers
 Japanese Cryptocurrency Exchange Falls Victim to JokerSpy macOS Backdoor Attack
 How Generative AI Can Dupe SaaS Authentication Protocols — And Effective Ways To Prevent Other Key AI Risks in SaaS
 Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers
