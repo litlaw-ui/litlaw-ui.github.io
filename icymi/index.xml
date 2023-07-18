@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-07-14</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-14/</link><pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-14/</guid><description>Latest Headlines Critical Security Flaws Uncovered in Honeywell Experion DCS and QuickBlox Services
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-07-17</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-17/</link><pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-17/</guid><description>Latest Headlines Hackers Exploit WebAPK to Deceive Android Users into Installing Malicious Apps
+These 6 Questions Will Help You Choose the Best Attack Surface Management Platform
+Malicious USB Drives Targetinging Global Targets with SOGU and SNOWYDRIVE Malware
+Cybercriminals Exploit Microsoft Word Vulnerabilities to Deploy LokiBot Malware
+CERT-UA Uncovers Gamaredon&amp;rsquo;s Rapid Data Exfiltration Tactics Following Initial Compromise
+Embracing Consolidation and Squashing Silos
+Owner of Cybercrime Website BreachForums Pleads Guilty
+JumpCloud Says Sophisticated Nation-State Hackers Targeted Specific Customers</description></item><item><title>ICYMI: 2023-07-16</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-16/</link><pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-16/</guid><description>Latest Headlines Top 10 Best Cyber Attack Simulation Tools – 2023
+Windows Copilot arrives in the fall with Windows 11 23H2
+Thousands of images on Docker Hub leak auth secrets, private keys
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-07-15</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-15/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-15/</guid><description>Latest Headlines WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
+Microsoft Bug Allowed Hackers to Breach Over Two Dozen Organizations via Forged Azure AD Tokens
+Nude Videos of Kids From Hacked Baby Monitors Were Sold on Telegram
+Microsoft Struggling to Find How Hackers Steal the Azure AD Signing Key
+Securing Endpoints: 6 Best Practices to Eliminate Blind Spots
+&amp;ndash; MTZ</description></item><item><title>ICYMI: 2023-07-14</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-14/</link><pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-14/</guid><description>Latest Headlines Critical Security Flaws Uncovered in Honeywell Experion DCS and QuickBlox Services
 Defend Against Insider Threats: Join this Webinar on SaaS Security Posture Management
 AIOS WordPress Plugin Faces Backlash for Storing User Passwords in Plain Text
 TeamTNT&amp;rsquo;s Cloud Credential Stealing Campaign Now Targets Azure and Google Cloud
