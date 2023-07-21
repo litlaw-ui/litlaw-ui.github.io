@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-07-18</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-18/</link><pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-18/</guid><description>Latest Headlines Pakistani Entities Targeted in Sophisticated Attack Deploying ShadowPad Malware
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-07-20</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-20/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-20/</guid><description>Latest Headlines Critical Flaws in AMI MegaRAC BMC Software Expose Servers to Remote Attacks
+Mallox Ransomware Exploits Weak MS-SQL Servers to Breach Networks
+Apache OpenMeetings Web Conferencing Tool Exposed to Critical Vulnerabilities
+North Korean State-Sponsored Hackers Suspected in JumpCloud Supply Chain Attack
+A Few More Reasons Why RDP is Insecure (Surprise!)
+Turla&amp;rsquo;s New DeliveryCheck Backdoor Breaches Ukrainian Defense Sector
+New P2PInfect Worm Targeting Redis Servers on Linux and Windows Systems</description></item><item><title>ICYMI: 2023-07-19</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-19/</link><pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-19/</guid><description>Latest Headlines How to Manage Your Attack Surface?
+CISA and NSA Issue New Guidance to Strengthen 5G Network Slicing Against Threats
+Chinese APT41 Hackers Target Mobile Devices with New WyrmSpy and DragonEgg Spyware
+Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations
+Bad.Build Flaw in Google Cloud Build Raises Concerns of Privilege Escalation
+U.S. Government Blacklists Cytrox and Intellexa Spyware Vendors for Cyber Espionage
+Zero-Day Attacks Exploited Critical Vulnerability in Citrix ADC and Gateway</description></item><item><title>ICYMI: 2023-07-18</title><link>https://sk3rts.rocks/icymi/icymi-2023-07-18/</link><pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-07-18/</guid><description>Latest Headlines Pakistani Entities Targeted in Sophisticated Attack Deploying ShadowPad Malware
 VirusTotal Data Leak Exposes Some Registered Customers&amp;rsquo; Details
 Go Beyond the Headlines for Deeper Dives into the Cybercriminal Underground
 FIN8 Group Using Modified Sardonic Backdoor for BlackCat Ransomware Attacks
