@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-08-21</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-21/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-21/</guid><description>Latest Headlines New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-08-24</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-24/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-24/</guid><description>Latest Headlines Lazarus Group Exploits Critical Zoho ManageEngine Flaw to Deploy Stealthy QuiteRAT Malware
+New Telegram Bot &amp;ldquo;Telekopye&amp;rdquo; Powering Large-scale Phishing Scams from Russia
+The Hidden Dangers of Public Wi-Fi
+New &amp;ldquo;Whiffy Recon&amp;rdquo; Malware Triangulates Infected Device Location via Wi-Fi Every Minute
+WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders
+Thousands of Unpatched Openfire XMPP Servers Still Exposed to High-Severity Flaw
+Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal</description></item><item><title>ICYMI: 2023-08-23</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-23/</link><pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-23/</guid><description>Latest Headlines North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns
+Meta Set to Enable Default End-to-End Encryption on Messenger by Year End
+Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead
+Syrian Threat Actor EVLF Unmasked as Creator of CypherRAT and CraxsRAT Android Malware
+Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks
+Over a Dozen Malicious npm Packages Target Roblox Game Developers
+How to Talk to Your Kids About Social Media and Mental Health</description></item><item><title>ICYMI: 2023-08-22</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-22/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-22/</guid><description>Latest Headlines CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds
+Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates
+New Variant of XLoader macOS Malware Disguised as &amp;lsquo;OfficeNote&amp;rsquo; Productivity App
+Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software
+Critical Adobe ColdFusion Flaw Added to CISA&amp;rsquo;s Exploited Vulnerability Catalog
+Tourists Give Themselves Away by Looking Up. So Do Most Network Intruders.</description></item><item><title>ICYMI: 2023-08-21</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-21/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-21/</guid><description>Latest Headlines New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC
 How to Investigate an OAuth Grant for Suspicious Activity or Overly Permissive Scopes
 This Malware Turned Thousands of Hacked Windows and macOS PCs into Proxy Servers
 HiatusRAT Malware Resurfaces: Taiwan Firms and U.S. Military Under Attack
