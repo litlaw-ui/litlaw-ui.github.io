@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-08-28</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-28/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-28/</guid><description>Latest Headlines Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-08-30</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-30/</link><pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-30/</guid><description>Latest Headlines Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security
+MMRat Android Trojan Executes Remote Financial Fraud Through Accessibility Feature
+China-Linked BadBazaar Android Spyware Targeting Signal and Telegram Users
+How to Prevent ChatGPT From Stealing Your Content &amp;amp; Traffic
+Malicious npm Packages Aim to Target Developers for Source Code Theft
+Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits
+Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks</description></item><item><title>ICYMI: 2023-08-29</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-29/</link><pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-29/</guid><description>Latest Headlines Chinese Hacking Group Exploits Barracuda Zero-Day to Target Government, Military, and Telecom
+DarkGate Malware Activity Spikes as Developer Rents Out Malware to Affiliates
+Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle
+Citrix NetScaler Alert: Ransomware Hackers Exploiting Critical Vulnerability
+Phishing-as-a-Service Gets Smarter: Microsoft Sounds Alarm on AiTM Attacks
+U.S. Hacks QakBot, Quietly Removes Botnet Infections
+The Weird, Big-Money World of Cybercrime Writing Contests</description></item><item><title>ICYMI: 2023-08-28</title><link>https://sk3rts.rocks/icymi/icymi-2023-08-28/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-08-28/</guid><description>Latest Headlines Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege
 Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel
 Cyberattacks Targeting E-commerce Applications
 KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities
