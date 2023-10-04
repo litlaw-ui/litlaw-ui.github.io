@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-10-01</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-01/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-01/</guid><description>Latest Headlines How to Stop Google Bard From Storing Your Data and Location
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-10-03</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-03/</link><pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-03/</guid><description>Latest Headlines Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation
+Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch
+Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers
+API Security Trends 2023 – Have Organizations Improved their Security Posture?
+Protecting your IT infrastructure with Security Configuration Assessment (SCA)
+Researcher Reveals New Techniques to Bypass Cloudflare&amp;rsquo;s Firewall and DDoS Protection
+Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation</description></item><item><title>ICYMI: 2023-10-02</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-02/</link><pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-02/</guid><description>Latest Headlines APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries
+LUCR-3: Scattered Spider Getting SaaS-y in the Cloud
+Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses
+OpenRefine&amp;rsquo;s Zip Slip Vulnerability Could Let Attackers Execute Malicious Code
+BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground
+Zanubis Android Banking Trojan Poses as Peruvian Government App to Target Users
+The Biggest Hack of 2023 Keeps Getting Bigger</description></item><item><title>ICYMI: 2023-10-01</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-01/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-01/</guid><description>Latest Headlines How to Stop Google Bard From Storing Your Data and Location
 How to Tell When Your Phone Will Stop Getting Security Updates
 Amazon sends Mastercard, Google Play gift card order emails by mistake
 Meet LostTrust ransomware — A likely rebrand of the MetaEncryptor gang
