@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-10-11</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-11/</link><pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-11/</guid><description>Latest Headlines Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2023-10-13</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-13/</link><pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-13/</guid><description>Latest Headlines New PEAPOD Cyberattack Campaign Targeting Women Political Leaders
+Researchers Unveil ToddyCat&amp;rsquo;s New Set of Tools for Data Exfiltration
+Ransomware Attacks Double: Are Companies Prepared for 2024&amp;rsquo;s Cyber Threats?
+DarkGate Malware Spreading via Messaging Services Posing as PDF Files
+FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure
+Rumors of a ‘Global Day of Jihad’ Have Unleashed a Dangerous Wave of Disinformation
+US House Republicans Had Their Phones Confiscated to Stop Leaks</description></item><item><title>ICYMI: 2023-10-12</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-12/</link><pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-12/</guid><description>Latest Headlines Malicious NuGet Package Targeting .NET Developers with SeroXen RAT
+ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers
+How to Guard Your Data from Exposure in ChatGPT
+Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack
+Researchers Uncover Malware Posing as WordPress Caching Plugin
+Researchers Uncover Ongoing Attacks Targeting Asian Governments and Telecom Giants
+Two High-Risk Security Flaws Discovered in Curl Library - New Patches Released</description></item><item><title>ICYMI: 2023-10-11</title><link>https://sk3rts.rocks/icymi/icymi-2023-10-11/</link><pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2023-10-11/</guid><description>Latest Headlines Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023
 U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability
 Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords
 Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits
