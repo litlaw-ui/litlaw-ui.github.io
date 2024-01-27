@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-01-24</title><link>https://sk3rts.rocks/icymi/icymi-2024-01-24/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-01-24/</guid><description>Latest Headlines Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-01-26</title><link>https://sk3rts.rocks/icymi/icymi-2024-01-26/</link><pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-01-26/</guid><description>Latest Headlines Perfecting the Defense-in-Depth Strategy with Automation
+Malicious Ads on Google Target Chinese Users with Fake Messaging Apps
+Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs
+Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree
+Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems
+Who is Alleged Medibank Hacker Aleksandr Ermakov?
+Police Arrest Teen Said to Be Linked to Hundreds of Swatting Attacks</description></item><item><title>ICYMI: 2024-01-25</title><link>https://sk3rts.rocks/icymi/icymi-2024-01-25/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-01-25/</guid><description>Latest Headlines SystemBC Malware&amp;rsquo;s C2 Server Analysis Exposes Payload Delivery Tricks
+Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!
+LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks
+Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024
+China-backed Hackers Hijack Software Updates to Implant &amp;ldquo;NSPX30&amp;rdquo; Spyware
+New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits
+Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach</description></item><item><title>ICYMI: 2024-01-24</title><link>https://sk3rts.rocks/icymi/icymi-2024-01-24/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-01-24/</guid><description>Latest Headlines Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters
 What is Nudge Security and How Does it Work?
 Kasseika Ransomware Using BYOVD Trick to Disarms Security Pre-Encryption
 The Unknown Risks of The Software Supply Chain: A Deep-Dive
