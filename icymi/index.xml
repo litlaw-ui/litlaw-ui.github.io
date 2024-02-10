@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-02-07</title><link>https://sk3rts.rocks/icymi/icymi-2024-02-07/</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-02-07/</guid><description>Latest Headlines After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-02-09</title><link>https://sk3rts.rocks/icymi/icymi-2024-02-09/</link><pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-02-09/</guid><description>Latest Headlines Raspberry Robin Malware Upgrades with Discord Spread and New Exploits
+MoqHao Android Malware Evolves with Auto-Execution Capability
+Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA
+New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack
+Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation
+Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity
+Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways</description></item><item><title>ICYMI: 2024-02-08</title><link>https://sk3rts.rocks/icymi/icymi-2024-02-08/</link><pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-02-08/</guid><description>Latest Headlines Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade
+Unified Identity – look for the meaning behind the hype!
+HijackLoader Evolves: Researchers Decode the Latest Evasion Methods
+Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore
+Kimsuky&amp;rsquo;s New Golang Stealer &amp;lsquo;Troll&amp;rsquo; and &amp;lsquo;GoBear&amp;rsquo; Backdoor Target South Korea
+Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products
+Epik, the Far-Right&amp;rsquo;s Favorite Web Host, Has a Shadowy New Owner</description></item><item><title>ICYMI: 2024-02-07</title><link>https://sk3rts.rocks/icymi/icymi-2024-02-07/</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-02-07/</guid><description>Latest Headlines After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back
 Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros
 New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs
 Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse
