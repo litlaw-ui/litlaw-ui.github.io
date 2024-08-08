@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-08-05</title><link>https://sk3rts.rocks/icymi/icymi-2024-08-05/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-08-05/</guid><description>Latest Headlines Researchers Uncover Flaws in Windows Smart App Control and SmartScreen
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-08-07</title><link>https://sk3rts.rocks/icymi/icymi-2024-08-07/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-08-07/</guid><description>Latest Headlines New Linux Kernel Exploit Technique &amp;lsquo;SLUBStick&amp;rsquo; Discovered by Researchers
+Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords
+New Go-based Backdoor GoGra Targets South Asian Media Organization
+CrowdStrike Reveals Root Cause of Global System Outages
+Chameleon Android Banking Trojan Targets Users Through Fake CRM App
+Apple’s New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software
+Cybercrime Rapper Sues Bank over Fraud Investigation
+Inside the Dark World of Doxing for Profit</description></item><item><title>ICYMI: 2024-08-06</title><link>https://sk3rts.rocks/icymi/icymi-2024-08-06/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-08-06/</guid><description>Latest Headlines INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore
+North Korean Hackers Moonstone Sleet Push Malicious JS Packages to npm Registry
+Suspicious Minds: Insider Threats in The SaaS World
+New Android Spyware LianSpy Evades Detection Using Yandex Cloud
+Google Patches New Android Kernel Vulnerability Exploited in the Wild
+New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution
+A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks</description></item><item><title>ICYMI: 2024-08-05</title><link>https://sk3rts.rocks/icymi/icymi-2024-08-05/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-08-05/</guid><description>Latest Headlines Researchers Uncover Flaws in Windows Smart App Control and SmartScreen
 Kazakh Organizations Targeted by &amp;lsquo;Bloody Wolf&amp;rsquo; Cyber Attacks
 The Loper Bright Decision: How it Impacts Cybersecurity Law
 Enhancing Incident Response Readiness with Wazuh
