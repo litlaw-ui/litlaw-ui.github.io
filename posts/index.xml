@@ -1,7 +1,13 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cybersecurity Blog</title><link>https://sk3rts.rocks/posts/</link><description>Recent content in Posts on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Bypassing LaTeX Filters</title><link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link><pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid><description>Introduction In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.
-What is LaTeX? As stated on the offical website:
-LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
-It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.</description><content type="html"><![CDATA[<hr>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cybersecurity Blog</title><link>https://sk3rts.rocks/posts/</link><description>Recent content in Posts on Cybersecurity Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Bypassing LaTeX Filters</title><link>https://sk3rts.rocks/posts/bypassing-latex-filters/</link><pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/bypassing-latex-filters/</guid><description>&lt;hr>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&amp;rsquo;s functionality to bypass filters and attack web based LaTeX compilers.&lt;/p>
+&lt;h1 id="heading">&lt;/h1>
+&lt;h3 id="what-is-latex">What is LaTeX?&lt;/h3>
+&lt;p>As stated on the offical website:&lt;/p>
+&lt;blockquote>
+&lt;p>LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation&lt;/p>
+&lt;/blockquote>
+&lt;p>It is commonly used in by university/college students and scientist/researchers for writing papers and documents, as its typesetting capabilities allow you to effortlessly use mathematical and scientifc symbols and notation.&lt;/p></description><content type="html"><![CDATA[<hr>
 <h2 id="introduction">Introduction</h2>
 <p>In this blogpost I will demonstrate a new technique I have discovered that abuses some of LaTeX&rsquo;s functionality to bypass filters and attack web based LaTeX compilers.</p>
 <h1 id="heading"></h1>
@@ -51,8 +57,10 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <p>Our blacklisted commands then run :)
 <strong>— MTZ</strong></p>
 <p><em>Checkout <a href="https://seethespread.com">https://seethespread.com</a>!</em></p>
-]]></content></item><item><title>Cobalt Strike: Red Team's Best Friend</title><link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid><description>Getting Started With Cobalt Strike As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.
-As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures.</description><content type="html"><![CDATA[<hr>
+]]></content></item><item><title>Cobalt Strike: Red Team's Best Friend</title><link>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/posts/cobalt-strike-guide-for-red-team/</guid><description>&lt;hr>
+&lt;h2 id="getting-started-with-cobalt-strike">Getting Started With Cobalt Strike&lt;/h2>
+&lt;p>As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.&lt;/p>
+&lt;p>As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures. In this post, I will quickly demonstrate how to get Cobalt Strike up and running on your system, setting up a listener, and interacting with a target machine.&lt;/p></description><content type="html"><![CDATA[<hr>
 <h2 id="getting-started-with-cobalt-strike">Getting Started With Cobalt Strike</h2>
 <p>As an aspiring Red Teamer, I’ve recently started learning how to use Cobalt Strike, and thought it would be a good idea to write a blog post on using it, and the many features it includes.</p>
 <p>As some of you may be aware, Cobalt Strike is software for Adversary Simulations and Red Team Operations. Since 2012, Cobalt Strike has been utilized as a proactive way of testing network defenses against advanced threat actor tools, tactics, and procedures. In this post, I will quickly demonstrate how to get Cobalt Strike up and running on your system, setting up a listener, and interacting with a target machine.</p>
