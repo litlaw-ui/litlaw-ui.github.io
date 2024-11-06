@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-04</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-04/</link><pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-04/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-05</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-05/</link><pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-05/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html">FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html">New Android Banking Malware &amp;lsquo;ToxicPanda&amp;rsquo; Targets Users with Fraudulent Money Transfers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html">Leveraging Wazuh for Zero Trust security&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html">Synology Urges Patch for Critical Zero-Click RCE Flaw Affecting Millions of NAS Devices&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html">Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html">Canadian Suspect Arrested Over Snowflake Data Breach and Extortion Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html">Google Warns of Actively Exploited CVE-2024-43093 Vulnerability in Android System&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-11-04</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-04/</link><pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-04/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
