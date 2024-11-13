@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-11</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-11/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-11/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-12</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-12/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html">New Flaws in Citrix Virtual Apps Enable RCE Attacks via MSMQ Misconfiguration&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html">New Phishing Tool GoIssue Targets GitHub Developers in Bulk Email Campaigns&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/north-korean-hackers-target-macos-using.html">North Korean Hackers Target macOS Using Flutter-Embedded Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html">5 Ways Behavioral Analytics is Revolutionizing Incident Response&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/new-ymir-ransomware-exploits-memory-for.html">New Ymir Ransomware Exploits Memory for Stealthy Attacks; Targets Corporate Networks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/">Microsoft Patch Tuesday, November 2024 Edition&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/">The WIRED Guide to Protecting Yourself From Government Surveillance&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-real-problem-with-banning-masks-at-protests/">The Real Problem With Banning Masks at Protests&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-11-11</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-11/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-11/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
