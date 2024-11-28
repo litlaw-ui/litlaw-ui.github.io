@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-26</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-26/</link><pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-26/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-27</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-27/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-27/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html">Researchers Discover &amp;ldquo;Bootkitty&amp;rdquo; – First UEFI Bootkit Targeting Linux Kernels&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/critical-flaw-in-projectsend-under.html">Critical Flaw in ProjectSend Under Active Exploitation Against Public-Facing Servers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html">Latest Multi-Stage Attack Scenarios with Real-World Examples&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html">APT-C-60 Hackers Exploit StatCounter and Bitbucket in SpyGlace Malware Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/interpol-busts-african-cybercrime-1006.html">INTERPOL Busts African Cybercrime: 1,006 Arrests, 134,089 Malicious Networks Dismantled&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/matrix-botnet-exploits-iot-devices-in.html">Matrix Botnet Exploits IoT Devices in Widespread DDoS Botnet Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/">Hacker in Snowflake Extortions May Be a U.S. Soldier&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/">Microsoft re-releases Exchange updates after fixing mail delivery&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-11-26</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-26/</link><pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-26/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
