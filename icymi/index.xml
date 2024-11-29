@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-27</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-27/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-27/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-11-28</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-28/</link><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-28/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/over-two-dozen-flaws-identified-in.html">Over Two Dozen Flaws Identified in Advantech Industrial Wi-Fi Access Points – Patch ASAP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html">The Future of Serverless Security in 2025: From Logs to Runtime Protection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html">XMLRPC npm Library Turns Malicious, Steals Data, Deploys Crypto Miner&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html">Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/11/us-telecom-giant-t-mobile-detects.html">U.S. Telecom Giant T-Mobile Detects Network Intrusion Attempts from Wireline Provider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/">Tor needs 200 new WebTunnel bridges to fight censorship&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/">UK hospital network postpones procedures after cyberattack&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-11-27</title><link>https://sk3rts.rocks/icymi/icymi-2024-11-27/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-11-27/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
