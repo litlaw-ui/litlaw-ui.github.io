@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-12-10</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-10/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-10/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-12-11</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-11/</link><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-11/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html">Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html">New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html">Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html">ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html">Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html">What is Nudge Security and How Does it Work?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html">Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-10</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-10/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-10/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
