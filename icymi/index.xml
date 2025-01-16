@@ -1,4 +1,611 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2024-12-13</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-13/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-13/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-01-15</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-15/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-15/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/google-ads-users-targeted-in.html">Google Ads Users Targeted in Malvertising Scam Stealing Credentials and 2FA Codes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/lazarus-group-targets-web3-developers.html">Lazarus Group Targets Web3 Developers with Fake LinkedIn Profiles in Operation 99&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/north-korean-it-worker-fraud-linked-to.html">North Korean IT Worker Fraud Linked to 2016 Crowdfunding Scam and Fake Domains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html">Google Cloud Researchers Uncover Flaws in Rsync File Synchronization Tool&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/the-high-stakes-disconnect-for-icsot.html">The High-Stakes Disconnect For ICS/OT Security&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html">FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html">3 Actively Exploited Zero-Day Flaws Patched in Microsoft&amp;rsquo;s Latest Security Update&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-14</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-14/</link><pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-14/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html">Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html">Google OAuth Vulnerability Exposes Millions via Failed Startup Domains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html">4 Reasons Your SaaS Attack Surface Can No Longer be Ignored&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/illicit-huione-telegram-market.html">Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html">Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/russian-linked-hackers-target.html">Russian-Linked Hackers Target Kazakhstan in Espionage Campaign with HATVIBE Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/cisa-adds-new-beyondtrust-flaw-to-kev.html">CISA Adds Second BeyondTrust Flaw to KEV Catalog Amid Active Attacks&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-13</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-13/</link><pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-13/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/hackers-exploit-aviatrix-controller.html">Hackers Exploit Aviatrix Controller Vulnerability to Deploy Backdoors and Crypto Miners&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/ransomware-on-esxi-mechanization-of.html">Ransomware on ESXi: The Mechanization of Virtualized Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/wordpress-skimmers-evade-detection-by.html">WordPress Skimmers Evade Detection by Injecting Themselves into Database Tables&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/expired-domains-allowed-control-over.html">Expired Domains Allowed Control Over 4,000 Backdoors on Compromised Systems&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/">Inside the Black Box of Predictive Travel Surveillance&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/oneblood-confirms-personal-data-stolen-in-july-ransomware-attack/">OneBlood confirms personal data stolen in July ransomware attack&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-12</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-12/</link><pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/">Phishing texts trick Apple iMessage users into disabling protection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/legal/pastor-who-saw-crypto-project-in-his-dream-indicted-for-fraud/">Pastor who saw crypto project in his &amp;ldquo;dream&amp;rdquo; indicted for fraud&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-01-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-11/</link><pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-11/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html">Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/doj-indicts-three-russians-for.html">DoJ Indicts Three Russians for Operating Crypto Mixers Used in Cybercrime Laundering&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/scammers-file-first-get-your-irs-identity-protection-pin-now/">Scammers file first — Get your IRS Identity Protection PIN now&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/fake-ldapnightmware-exploit-on-github-spreads-infostealer-malware/">Fake LDAPNightmware exploit on GitHub spreads infostealer malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-01-10</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-10/</link><pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-10/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html">Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html">Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html">AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html">Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html">RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html">CrowdStrike Warns of Phishing Scam Targeting Job Seekers with XMRig Cryptominer&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/">Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-09</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-09/</link><pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-09/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/major-vulnerabilities-patched-in.html">Major Vulnerabilities Patched in SonicWall, Palo Alto Expedition, and Aviatrix Controllers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html">New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/product-review-how-reco-discovers.html">Product Walkthrough: How Reco Discovers Shadow AI in SaaS&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html">MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html">Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html">Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/eu-commission-fined-for-transferring.html">E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-08</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-08/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-08/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html">Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html">Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html">Top 5 Malware Threats to Prepare Against in 2025&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/mirai-botnet-variant-exploits-four.html">Mirai Botnet Variant Exploits Four-Faith Router Vulnerability for DDoS Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html">FCC Launches &amp;lsquo;Cyber Trust Mark&amp;rsquo; for IoT Devices to Certify Security Compliance&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/cisa-flags-critical-flaws-in-mitel-and.html">CISA Flags Critical Flaws in Mitel and Oracle Systems Amid Active Exploitation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/">Unpatched critical flaws impact Fancy Product Designer WordPress plugin&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-07</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-07/</link><pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-07/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/researchers-uncover-major-security-flaw.html">Researchers Uncover Major Security Flaw in Illumina iSeq 100 DNA Sequencers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html">Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/new-eagerbee-variant-targets-isps-and.html">New EAGERBEE Variant Targets ISPs and Governments with Advanced Backdoor Capabilities&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/cisa-no-wider-federal-impact-from.html">CISA: No Wider Federal Impact from Treasury Cyber Attack, Investigation Ongoing&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html">Moxa Alerts Users to High-Severity Vulnerabilities in Cellular and Secure Routers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/">A Day in the Life of a Prolific Voice Phishing Crew&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/license-plate-reader-live-video-data-exposed/">License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-06</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-06/</link><pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-06/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html">India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html">From $22M in Ransom to +100M Stolen Records: 2025&amp;rsquo;s All-Star SaaS Threat Actors to Watch&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html">FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/russian-speaking-attackers-target.html">Cybercriminals Target Ethereum Developers with Fake Hardhat npm Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-says-recent-government-hack-limited-to-us-treasury/">CISA says recent government hack limited to US Treasury&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-05</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-05/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-05/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-scrapped-windows-11s-dynamic-wallpapers-feature/">Microsoft may have scrapped Windows 11&amp;rsquo;s dynamic wallpapers feature&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-users-urged-to-upgrade-to-avoid-security-fiasco/">Windows 10 users urged to upgrade to avoid &amp;ldquo;security fiasco&amp;rdquo;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-wallet-drainers-stole-494-million-in-2024/">Cryptocurrency wallet drainers stole $494 million in 2024&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-01-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-04/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-04/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/researchers-uncover-nuclei.html">Researchers Uncover Nuclei Vulnerability Enabling Signature Bypass and Code Execution&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html">PLAYFULGHOST Delivered via Phishing and SEO Poisoning in Trojanized VPN Apps&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html">U.S. Sanctions Chinese Cybersecurity Firm for State-Backed Hacking Campaigns&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/apple-95-million-siri-privacy-lawsuit/">Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/nuclei-flaw-bypasses-template-signature-checks-to-execute-commands/">Nuclei flaw bypasses template signature checks to execute commands&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/google/google-chrome-is-making-it-easier-to-share-specific-parts-of-long-pdfs/">Google Chrome is making it easier to share specific parts of long PDFs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/new-firescam-android-malware-poses-as-rustore-app-to-steal-data/">New FireScam Android malware poses as RuStore app to steal data&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-03/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-03/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html">New AI Jailbreak Method &amp;lsquo;Bad Likert Judge&amp;rsquo; Boosts Attack Success Rates by Over 60%&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html">LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/critical-deadline-update-old-net.html">Critical Deadline: Update Old .NET Domains Before January 7, 2025 to Avoid Service Disruption&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/apple-to-pay-siri-users-20-per-device.html">Apple to Pay Siri Users $20 Per Device in Settlement Over Accidental Siri Privacy Violations&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/amber-alert-paywall-california/">Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/">Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-02</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-02/</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-02/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html">Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/cross-domain-attacks-growing-threat-to.html">Cross-Domain Attacks: A Growing Threat to Modern Security and How to Combat Them&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html">Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html">Three Russian-German Nationals Charged with Espionage for Russian Secret Service&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/">Ransomware gang leaks data stolen in Rhode Island&amp;rsquo;s RIBridges Breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/">New DoubleClickjacking attack exploits double-clicks to hijack accounts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-targeted-sanctions-office-in-treasury-attack/">Chinese hackers targeted sanctions office in Treasury attack&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-01-01</title><link>https://sk3rts.rocks/icymi/icymi-2025-01-01/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-01-01/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html">New &amp;ldquo;DoubleClickjacking&amp;rdquo; Exploit Bypasses Clickjacking Protections on Major Websites&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html">Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/old-chat-history-delete/">Hey, Maybe It&amp;rsquo;s Time to Delete Some Old Chat Histories&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-31</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-31/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-31/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/new-us-doj-rule-halts-bulk-data.html">New U.S. DoJ Rule Halts Bulk Data Transfers to Adversarial Nations to Protect Privacy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html">Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html">Misconfigured Kubernetes RBAC in Azure Airflow Could Expose Entire Cluster to Exploitation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/">U.S. Army Soldier Arrested in AT&amp;amp;T, Verizon Extortions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/us-treasury-hacked-by-china/">US Treasury Department Admits It Got Hacked by China&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/">New details reveal how hackers hijacked 35 Google Chrome extensions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/">Over 3.1 million fake &amp;ldquo;stars&amp;rdquo; on GitHub projects used to boost rankings&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-30</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-30/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-30/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html">New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity_0611565081.html">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html">When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/">The Most Dangerous People on the Internet in 2024&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/">US Treasury Department breached through remote support platform&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-four-faith-router-flaw-to-open-reverse-shells/">Hackers exploit Four-Faith router flaw to open reverse shells&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-urgent-dev-warning-to-update-net-installer-link/">Microsoft issues urgent dev warning to update .NET installer link&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-29</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-29/</link><pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-29/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html">16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2024/12/happy-15th-anniversary-krebsonsecurity/">Happy 15th Anniversary, KrebsOnSecurity!&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-28</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-28/</link><pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-28/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html">15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/hackers-steal-zagg-customers-credit-cards-in-third-party-breach/">Hackers steal ZAGG customers&amp;rsquo; credit cards in third-party breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/customer-data-from-800-000-electric-cars-and-owners-exposed-online/">Customer data from 800,000 electric cars and owners exposed online&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-27</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-27/</link><pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-27/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html">North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html">Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html">Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html">FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html">Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-paper-passport-is-dying/">The Paper Passport Is Dying&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/">White House links ninth telecom breach to Chinese hackers&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-26</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-26/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html">Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/worst-hacks-2024/">The Worst Hacks of 2024&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/">Apache warns of critical flaws in MINA, HugeGraph, Traffic Control&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/">New &amp;lsquo;OtterCookie&amp;rsquo; malware used to backdoor devs in fake job offers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/windows-11-installation-media-bug-causes-security-update-failures/">Windows 11 installation media bug causes security update failures&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-25</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-25/</link><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-25/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html">Ruijie Networks&amp;rsquo; Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html">Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS — Patch Now&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html">Iran&amp;rsquo;s Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/">You Need to Create a Secret Password With Your Family&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/microsoft/five-lesser-known-task-manager-features-in-windows-11/">Five lesser known Task Manager features in Windows 11&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-24</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-24/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-24/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html">Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html">North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html">CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html">Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/new-botnet-exploits-vulnerabilities-in-nvrs-tp-link-routers/">New botnet exploits vulnerabilities in NVRs, TP-Link routers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/european-space-agencys-official-store-hacked-to-steal-payment-cards/">European Space Agency&amp;rsquo;s official store hacked to steal payment cards&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/fbi-links-north-korean-hackers-to-308-million-crypto-heist/">FBI links North Korean hackers to $308 million crypto heist&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-23</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-23/</link><pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-23/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html">AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html">Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html">Top 10 Cybersecurity Trends to Expect in 2025&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/us-judge-rules-against-nso-group-in.html">U.S. Judge Rules Against NSO Group in WhatsApp Pegasus Spyware Case&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html">Italy Fines OpenAI €15 Million for ChatGPT GDPR Data Privacy Violations&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/electronic-warfare-russia-ukraine/">The Invisible Russia-Ukraine Battlefield&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/adobe-warns-of-critical-coldfusion-bug-with-poc-exploit-code/">Adobe warns of critical ColdFusion bug with PoC exploit code&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-22</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-22/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-22/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-21</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-21/</link><pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-21/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html">LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/faa-mystery-drone-ban/">Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-20</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-20/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-20/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html">Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html">Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html">Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html">Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html">CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/google/google-says-new-scam-protection-feature-in-chrome-uses-ai/">Google says new scam protection feature in Chrome uses AI&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/malicious-rspack-vant-packages-published-using-stolen-npm-tokens/">Malicious Rspack, Vant packages published using stolen NPM tokens&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-19</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-19/</link><pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-19/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/thousands-download-malicious-npm.html">Thousands Download Malicious npm Libraries Impersonating Legitimate Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html">Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html">Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html">CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html">Dutch DPA Fines Netflix €4.75 Million for GDPR Violations Over Data Transparency&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html">UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-18</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-18/</link><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-18/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html">HubPhish Exploits HubSpot Tools to Target 20,000 European Users for Credential Theft&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html">Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html">Not Your Old ActiveState: Introducing our End-to-End OS Platform&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html">APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html">ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&amp;amp;CK Evaluation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html">BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-17</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-17/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html">Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/hackers-use-microsoft-msc-files-to.html">Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html">Even Great Companies Get Breached — Find Out Why and How to Stop It&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html">Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html">5 Practical Techniques for Effective Cyber Threat Hunting&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html">Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html">The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-16</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-16/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-16/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/deceptionads-delivers-1m-daily.html">DeceptionAds Delivers 1M+ Daily Impressions via 3,000 Sites, Fake CAPTCHA Pages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/novispy-spyware-installed-on.html">NoviSpy Spyware Installed on Journalist&amp;rsquo;s Phone After Unlocking It With Cellebrite Tool&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_16.html">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html">Data Governance in DevOps: Ensuring Compliance in the AI Era&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html">New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html">New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html">Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2024-12-15</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-15/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-15/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/">The Simple Math Behind Public Key Cryptography&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/">Clop ransomware claims responsibility for Cleo data theft attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/">Winnti hackers target other threat actors with new Glutton PHP backdoor&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-14</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-14/</link><pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-14/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html">Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html">Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/">Microsoft’s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/">390,000 WordPress accounts stolen from hackers in supply chain attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2024-12-13</title><link>https://sk3rts.rocks/icymi/icymi-2024-12-13/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2024-12-13/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>

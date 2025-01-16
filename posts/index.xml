@@ -85,11 +85,11 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <p>The Cobalt Strike client connects to the team server, and provides us with a GUI to connect and manage the team server and any compromised hosts. The client can be started by running the following command on your Kali VM:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./cobaltstrike
 </span></span></code></pre></div><p>A window similar to the image below should appear:</p>
-<p><img src="../../UFW7.png" alt="Cobalt Strike Connect Popup"></p>
+<p><img alt="Cobalt Strike Connect Popup" src="../../UFW7.png"></p>
 <p>There are 4 self explanatory input fields: Host, Port, User, and Password. It should be noted that the &ldquo;user&rdquo; field is just a nickname, and is what will be displayed to other team members connected to the server.</p>
 <p>In this case, you should put your local IP address as the host, choose a username, and enter the password. Then, click connect, and wait for the next prompt to appear.</p>
 <p>Since this is your first time connecting to this teamserver on the Kali Linux box, you should be presented with a popup regarding verifying the hash of the server. Double check and make sure it matches the one from the teamserver. This is an important step to mitigate MITM attacks.</p>
-<p><img src="../../verify.png" alt="Verify Hash"></p>
+<p><img alt="Verify Hash" src="../../verify.png"></p>
 <h2 id="let-the-games-begin">Let the games begin</h2>
 <p>Now we can test out Cobalt Strike, so it&rsquo;s time for us to spin up our target Windows VM that we will run Cobalt Strike payloads in.</p>
 <p>Just as a precation, take a snapshot of the Windows VM once it&rsquo;s running just in case you end up doing something further outside of this lab.</p>
@@ -108,7 +108,7 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <li>Foreign HTTP and HTTPS</li>
 </ul>
 <p>For this exercise we will stick with the <code>windows/beacon_https/reverse_https</code> as it is quick and simple.</p>
-<p><img src="../../cobstr.jpg" alt="Listener Toolbar"></p>
+<p><img alt="Listener Toolbar" src="../../cobstr.jpg"></p>
 <p>Fill in the rest of requirements for this new listener by giving it an easily identifiable name, adding the IP address of your team server, and the port is should receive connections on. Then click save.</p>
 <p>Next you will be prompted for a domain. Since this is an internal lab use you can use an IP address, however while on an engagement you should supply a domain.</p>
 <p>We are now ready to create the payload. For testing purposes, I reccomend you disable Windows Defender and any other AV&rsquo;s you may have installed on it.</p>
@@ -128,16 +128,16 @@ Same as -shell-escape, but limited to a &lsquo;safe&rsquo; set of predefined com
 <p>Cobalt Strike comes with a vast payload creation offering, as it covers almost all commonly used techniques, which are incredibly simple to build. Unfortunately, (or fortunately depending on your situation), all common AV software has a signature for each one of the available payloads. Lucky for us, we can use various tools such as Unicorn by Dave Kennedy of TrustedSec to obfuscate the payloads.</p>
 <p>Another quick note about Beacons, is that they have easily identifiable network indicators, however they are malleable so they can be changed to avoid detection. Do not use a raw Cobalt Strike payload on an engagement, it will most definitely raise flags for the Blue Team.</p>
 <p><strong>To build a Cobalt Strike payload, click on Attacks -&gt; Packages -&gt; Payload Generator</strong></p>
-<p><img src="../../beacon.jpg" alt="Cobalt Strike Payload"></p>
+<p><img alt="Cobalt Strike Payload" src="../../beacon.jpg"></p>
 <p>Choose the listener you want the payload to call back to, followed by the output format for the payload. For this demo we will use the PowerShell Command option. It creates a nice PowerShell oneliner, which can be copied into command prompt or powershell, and then executed.</p>
-<p><img src="../../payload.jpg" alt="Choosing payload options"></p>
+<p><img alt="Choosing payload options" src="../../payload.jpg"></p>
 <p>Once you have generated the payload, open it using a text editor (nano and vi/vim mess with the formatting so avoid it for now), and copy the command to your clipboard.</p>
 <p>Switch over to your Windows VM and paste the command into command prompt and hit enter, or open up the run dialogue box by pressing WIN + R, and executing it there.</p>
 <p>A few seconds later you should see the Windows VM call back to the C2, and you should receive your session as seen below.</p>
-<p><img src="../../compromised.jpg" alt="Compromised machine"></p>
+<p><img alt="Compromised machine" src="../../compromised.jpg"></p>
 <p>To be able to send shell commands to the target you have to enable interactive mode. This can be done by clicking on the chosen target and selecting &ldquo;Interact&rdquo;. This will open a new tab and then you can execute commands via the beacon prompt. You will likely spend most of your time with Cobalt Strike in the Beacon console. It’s worth your time to become familiar with the commands Cobalt Strike has to offer. Type <strong>help</strong> in the Beacon console to see available commands.</p>
 <p>During an engagement, you can control the rate at which you communicate with the target host. Most often you intentionally slow communication down in an attempt to reduce the chances of being spotted by the blue team. However while working in a lab environment, you may find the slow responses to requests frustrating, so you can set the beacon to respond instantly by typing in <code>sleep 0</code> and pressing enter.</p>
-<p><img src="../../interactive.jpg" alt="Interactive"></p>
+<p><img alt="Interactive" src="../../interactive.jpg"></p>
 <p>It should be noted that all cmd/powershell commands can be used natively within beacon, but to do so you have to put the word “shell” before each command so that the beacon is able understand your request.</p>
 <h2 id="a-few-useful-features">A Few Useful Features</h2>
 <h3 id="screenshot">Screenshot</h3>
