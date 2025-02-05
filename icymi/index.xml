@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-02-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-03/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-03/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-02-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-04/</link><pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-04/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html">Malicious Go Package Exploits Module Mirror Caching for Persistent Remote Access&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/russian-cybercrime-groups-exploiting-7.html">Russian Cybercrime Groups Exploiting 7-Zip Flaw to Bypass Windows MotW Protections&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/north-korean-hackers-deploy-ferret.html">North Korean Hackers Deploy FERRET Malware via Fake Job Interviews on macOS&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/watch-out-for-these-8-cloud-security.html">Watch Out For These 8 Cloud Security Shifts in 2025&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html">Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html">AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html">Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-02-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-03/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-03/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
