@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-02-07</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-07/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-07/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-02-08</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-08/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-08/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html">Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/">Teen on Musk’s DOGE Team Graduated from ‘The Com’&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/uk-secret-order-apple-users-encrypted-data/">UK Secret Order Demands That Apple Give Access to Users’ Encrypted Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/cityworks-rce-iis-servers/">CISA Warns of Trimble Cityworks RCE Vulnerability Exploited to Hack IIS Servers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/hpe-alerts-employees-of-data-breach/">HPE Alerts Employees of Data Breach After Russian Cyberattack on Office 365&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/massive-brute-force-attack-uses-28-million-ips-to-target-vpn-devices/">Massive brute force attack uses 2.8 million IPs to target VPN devices&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-02-07</title><link>https://sk3rts.rocks/icymi/icymi-2025-02-07/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-02-07/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
