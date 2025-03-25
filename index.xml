@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-03-23</title><link>https://sk3rts.rocks/icymi/icymi-2025-03-23/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-03-23/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-03-24</title><link>https://sk3rts.rocks/icymi/icymi-2025-03-24/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-03-24/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html">Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/microsoft-adds-inline-data-protection.html">Microsoft Adds Inline Data Protection to Edge for Business to Block GenAI Data Leaks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/vanhelsing-raas-launch-3-victims-5k.html">VanHelsing RaaS Launch: 3 Victims, $5K Entry Fee, Multi-OS, and Double Extortion Tactics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/thn-weekly-recap-github-supply-chain.html">⚡ THN Weekly Recap: GitHub Supply Chain Attack, AI Malware, BYOVD Tactics, and More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/vscode-marketplace-removes-two.html">VSCode Marketplace Removes Two Extensions Deploying Early-Stage Ransomware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/how-to-balance-password-security.html">How to Balance Password Security Against User Experience&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html">Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-03-23</title><link>https://sk3rts.rocks/icymi/icymi-2025-03-23/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-03-23/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
