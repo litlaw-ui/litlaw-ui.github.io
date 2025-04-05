@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-03/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-03/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-04/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-04/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/spotbugs-access-token-theft-identified.html">SpotBugs Access Token Theft Identified as Root Cause of GitHub Supply Chain Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html">Have We Reached a Distroless Tipping Point?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html">Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/opsec-failure-exposes-coquetttes.html">OPSEC Failure Exposes Coquettte’s Malware Campaigns on Bulletproof Hosting Servers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/cert-ua-reports-cyberattacks-targeting.html">CERT-UA Reports Cyberattacks Targeting Ukrainian State Systems with WRECKSTEEL Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html">Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/">Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-03/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-03/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
