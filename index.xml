@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-04/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-04/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-05</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-05/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-05/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/microsoft-credits-encrypthub-hacker.html">Microsoft Credits EncryptHub, Hacker Behind 618+ Breaches, for Disclosing Windows Flaws&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html">North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/malicious-python-packages-on-pypi.html">Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/">NSA Chief Ousted Amid Trump Loyalty Firing Spree&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/fake-captcha/">“Clipboard Hijacking” A Fake CAPTCHA Leverage Pastejacking Script Via Hacked Sites To Steal Clipboard Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/ingressnightmare/">“IngressNightmare” Critical RCE Vulnerabilities in Kubernetes NGINX Clusters Let Attackers Gain Full Control&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-04/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-04/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
