@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-11/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-11/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-12</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-12/</link><pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/china-admits-hacking-us-infrastructure/">China Secretly (and Weirdly) Admits It Hacked US Infrastructure&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/goffee-leveraging-powermodul-tool/">GOFFEE Leveraging PowerModul Tool to Attack Government &amp;amp; Energy Organizations&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/seven-years-old-cisco-vulnerability-exposes-cisco-devices/">Seven Years Old Cisco Vulnerability Exposes Cisco Devices to Remote Code Execution Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/0-click-rce-in-the-supernote-nomad-e-ink-tablet/">0-Click RCE in the SuperNote Nomad E-ink Tablet Lets Hackers Install Rootkit &amp;amp; Gain Full Control&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/upi-down/">UPI Down – UPI Outage Disrupt Millions of Digital Transactions Across India&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/malicious-npm-packages-targeting-paypal-users-to-steal-sensitive-data/">Beware Developers! Malicious NPM Packages Targeting PayPal Users to Steal Sensitive Data&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-11/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-11/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
