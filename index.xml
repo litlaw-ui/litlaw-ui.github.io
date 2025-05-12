@@ -1,4 +1,541 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-04-14</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-14/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-14/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-05-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-11/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-11/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/microsoft-teams-block-screen-capture/">Microsoft Teams To Block Screen Capture During Meetings&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/">Bluetooth 6.1 enhances privacy with randomized RPA timing&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/">ChatGPT is finally adding Download as PDF for Deep Research&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/iclicker-hack-targeted-students-with-malware-via-fake-captcha/">iClicker site hack targeted students with malware via fake CAPTCHA&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-05-10</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-10/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-10/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html">Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html">Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/ices-deportation-airline-hack-reveals-man-disappeared-to-el-salvador/">ICE’s Deportation Airline Hack Reveals Man ‘Disappeared’ to El Salvador&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/pupkinstealer-a-new-net-based-malware-steals-browser-credentials-exfiltrate-via-telegram/">“PupkinStealer” A New .NET-Based Malware Steals Browser Credentials &amp;amp; Exfiltrate via Telegram&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/beware-fake-ai-video-generation-platforms-drop-stealer-malware-on-your-computers/">Beware! Fake AI Video Generation Platforms Drop Stealer Malware on Your Computers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/20-years-old-proxy-botnet-network-dismantled/">20 Years old Proxy Botnet Network Dismantled That Exploits 1000 Unique Unpatched Devices Weekly&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-09</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-09/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-09/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html">BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html">OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html">Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html">Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html">Beyond Vulnerability Management – Can You CVE What I CVE?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html">Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-08</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-08/</link><pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-08/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html">38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html">Security Tools Alone Don&amp;rsquo;t Protect You — Control Effectiveness Does&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html">SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html">Qilin Ransomware Ranked Highest in April 2025 with Over 45 Data Leak Disclosures&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html">MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html">Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-07</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-07/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-07/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html">Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html">OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html">SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html">Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html">Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html">Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html">NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-06</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-06/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-06/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html">Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html">New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html">Third Parties and Machine Credentials: The Silent Drivers Behind 2025&amp;rsquo;s Worst Breaches&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html">Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to Data Leaks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html">Entra ID Data Protection: Essential or Overkill?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html">Update ASAP: Google Fixes Android Flaw (CVE-2025-27363) Exploited by Attackers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html">Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-05</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-05/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-05/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html">Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html">Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html">⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html">Perfection is a Myth. Leverage Isn&amp;rsquo;t: How Small Teams Can Secure Their Google Workspace&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html">Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/signal-clone-used-by-mike-waltz-pauses-service-after-reports-it-got-hacked/">Signal Clone Used by Mike Waltz Pauses Service After Reports It Got Hacked&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-04</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-04/</link><pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-04/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/cybersecurity-weekly-digest/">Cybersecurity Weekly Newsletter: Key Attacks and Vulnerabilities From Last Week&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/">OpenAI document explains when to use each ChatGPT model&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/stealc-malware-enhanced-with-stealth-upgrades-and-data-theft-tools/">StealC malware enhanced with stealth upgrades and data theft tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-05-03</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-03/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-03/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html">Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html">Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html">U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/hacking-spree-hits-uk-retail-giants/">Hacking Spree Hits UK Retail Giants&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/asyncrat-dark-mode/">AsyncRAT Dark Mode – New Version of AsyncRAT on GitHub With Remote Access &amp;amp; Monitoring&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/kunbus-auth-bypass-vulnerabilities/">CISA Warns of KUNBUS Auth Bypass Vulnerabilities Exposes Systems to Remote Attacks&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-02</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-02/</link><pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-02/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html">TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html">How to Automate CVE and Vulnerability Advisory Response with Tines&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html">MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html">Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/">xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/">Mike Waltz Has Somehow Gotten Even Worse at Using Signal&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-01</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-01/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-01/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html">Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html">Why top SOC teams are shifting to Network Detection and Response&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html">Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html">New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html">DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html">Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html">SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-30</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-30/</link><pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-30/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html">Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html">[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html">Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/customer-account-takeovers-multi.html">Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/nebulous-mantis-targets-nato-linked.html">Nebulous Mantis Targets NATO-Linked Entities with Multi-Stage Malware Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html">RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-29</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-29/</link><pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-29/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html">WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html">New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html">SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html">Product Walkthrough: Securing Microsoft Copilot with Reco&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html">Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html">Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html">CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-28</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-28/</link><pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-28/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html">⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp;amp; More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html">How Breaches Start: Breaking Down 5 Real Vulns&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html">Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html">WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html">Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/police-records-car-subscription-features-surveillance/">Car Subscription Features Raise Your Risk of Government Surveillance, Police Records Show&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-27</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-27/</link><pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-27/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html">Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/weekly-cyber-security-news-letter-2/">Weekly Cyber Security News Letter – Last Week’s Top Cyber Attacks &amp;amp; Vulnerabilities&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/ixon-vpn-vulnerabilities-gain-access/">Critical IXON VPN Vulnerabilities Let Attackers Gain Access to Windows &amp;amp; Linux Systems&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/cybersecurity-frameworks/">Navigating Cybersecurity Frameworks – CISO Resource Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/how-digital-forensics-supports-incident-response-insights-for-security-leaders/">How Digital Forensics Supports Incident Response: Insights For Security Leaders&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/identity-and-access-management-ciso/">Identity and Access Management (IAM) – The CISO’s Core Focus in Modern Cybersecurity&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/mdr-vs-traditional-security-operations-whats-right-for-your-penetration-testing-team/">MDR vs. Traditional Security Operations: What’s Right For Your Penetration Testing Team?&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-26</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-26/</link><pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html">ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/pete-hegseths-signal-scandal-spirals-out-of-control/">Pete Hegseth’s Signal Scandal Spirals Out of Control&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/cynomi-raises-37-million-series-b-to-expand-its-vciso-platform/">Cynomi Raises $37 Million Series B to Expand Its vCISO Platform&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/dragonforce-and-anubis-ransomware-operators/">DragonForce and Anubis Ransomware Operators Unveils New Affiliate Models&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/new-power-parasites-phishing-attack/">New Power Parasites Phishing Attack Targeting Energy Companies and Major Brands&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/social-engineering-awareness-how-cisos-and-soc-heads-can-protect-the-organization/">Social Engineering Awareness: How CISOs And SOC Heads Can Protect The Organization&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/xdr-in-penetration-testing/">XDR In Penetration Testing: Leveraging Advanced Detection To Find Vulnerabilities&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-25</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-25/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-25/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html">North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html">New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html">Why NHIs Are Security&amp;rsquo;s Most Dangerous Blind Spot&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/researchers-identify-rackstatic.html">Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html">DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/browser-security-firm-squarex-raises-20-million/">Browser Security Firm SquareX Raises $20 Million&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/former-google-cloud-ciso-phil-venables-joins-ballistic-ventures/">Former Google Cloud CISO Phil Venables Joins Ballistic Ventures&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-24</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-24/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-24/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html">Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html">Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html">Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html">159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html">Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html">Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-23</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-23/</link><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-23/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html">DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html">Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html">Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html">Three Reasons Why the Browser is Best for Stopping Phishing Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/russian-hackers-exploit-microsoft-oauth.html">Russian Hackers Exploit Microsoft OAuth to Target Ukraine Allies via Signal and WhatsApp&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html">Ripple&amp;rsquo;s xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-22</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-22/</link><pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-22/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/docker-malware-exploits-teneo-web3-node.html">Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html">GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html">5 Major Concerns With Employees Using The Browser&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html">Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html">Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html">Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-21</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-21/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-21/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html">Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html">SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html">5 Reasons Device Management Isn&amp;rsquo;t Device Trust​&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/thn-weekly-recap-ios-zero-days-4chan.html">⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware &amp;amp; More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/hackers-abuse-russian-bulletproof-host.html">Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/">How to Protect Yourself From Phone Searches at the US Border&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-20</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-20/</link><pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-20/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html">APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/detecting-malicious-javascript-using-behavior-analysis-and-network-traces/">Detecting Malicious JavaScript Using Behavior Analysis And Network Traces&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/mapping-the-cyber-kill-chain-using-correlated-security-logs-and-timeline-tools/">Mapping The Cyber Kill Chain Using Correlated Security Logs And Timeline Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/automating-threat-intelligence-enrichment-in-your-siem-with-misp/">Automating Threat Intelligence Enrichment In Your SIEM With MISP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/how-to-correlate-web-logs-and-network-indicators-to-track-credential-theft/">How To Correlate Web Logs And Network Indicators To Track Credential Theft&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/implementing-mitre-attck-in-soc/">A Step-by-Step Guide To Implementing MITRE ATT&amp;amp;CK In Your SOC Workflows&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/ai-regulations-on-cybersecurity/">The Impact of AI Regulations on Cybersecurity Strategy&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-19</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-19/</link><pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-19/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html">Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html">ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/florida-man-enters-the-encryption-wars/">Florida Man Enters the Encryption Wars&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/new-android-supercard-x-malware-employs-nfc-relay-technique/">New Android SuperCard X Malware Employs NFC-Relay Technique for Fraudulent POS &amp;amp; ATM Withdrawals&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/new-shebyte-paas-offering-199-subscription/">New SheByte PaaS Offering $199 Subscription for Cyber Criminals&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/new-gorilla-android-malware-intercept-sms-messages/">New Gorilla Android Malware Intercept SMS Messages to Steal OTPs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/state-sponsored-hackers-now-widely-using-clickfix-attack/">State Sponsored Hackers Now Widely Using ClickFix Attack Technique in Espionage Campaigns&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-18</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-18/</link><pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-18/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html">Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html">Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html">[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html">Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/cve-2025-24054-under-active.html">CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/ice-palantir-immigrationos/">ICE Is Paying Palantir $30 Million to Build ‘ImmigrationOS’ Surveillance Platform&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-17</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-17/</link><pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html">Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html">State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html">Artificial Intelligence – What&amp;rsquo;s all the fuss?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html">Critical Erlang/OTP SSH Vulnerability (CVSS 10.0) Allows Unauthenticated Code Execution&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html">Blockchain Offers Security Benefits – But Don&amp;rsquo;t Neglect Your Passwords&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/nodejs-malware-campaign-targets-crypto.html">Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/cisa-flags-actively-exploited.html">CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-16</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-16/</link><pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-16/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/experts-uncover-four-new-privilege.html">Experts Uncover Four New Privilege Escalation Flaws in Windows Task Scheduler&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/google-blocked-51b-harmful-ads-and.html">Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html">Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html">From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html">New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html">Product Walkthrough: A Look Inside Wing Security&amp;rsquo;s Layered SaaS Identity Defense&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-15</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-15/</link><pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-15/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html">Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html">Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/majority-of-browser-extensions-can.html">Majority of Browser Extensions Can Access Sensitive Enterprise Data, New Report Finds&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html">Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/crypto-developers-targeted-by-python.html">Crypto Developers Targeted by Python Malware Disguised as Coding Challenges&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html">Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html">Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-04-14</title><link>https://sk3rts.rocks/icymi/icymi-2025-04-14/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-04-14/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
