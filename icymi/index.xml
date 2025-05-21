@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-05-19</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-19/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-19/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-05-20</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-20/</link><pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-20/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html">Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html">100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html">AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html">The Crowded Battle: Key Insights from the 2025 State of Pentesting Report&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html">South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html">Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-05-19</title><link>https://sk3rts.rocks/icymi/icymi-2025-05-19/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-05-19/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
