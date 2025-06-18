@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-06-16</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-16/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-16/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-06-17</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-17/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html">Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html">LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html">Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html">Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html">Are Forgotten AD Service Accounts Leaving You at Risk?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html">Hard-Coded &amp;lsquo;b&amp;rsquo; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-06-16</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-16/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-16/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
