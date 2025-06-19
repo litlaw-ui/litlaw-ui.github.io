@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-06-17</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-17/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-17/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-06-18</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-18/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-18/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html">New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html">1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html">FedRAMP at Startup Speed: Lessons Learned&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html">Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html">CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html">Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html">Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp;amp; Replication&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-06-17</title><link>https://sk3rts.rocks/icymi/icymi-2025-06-17/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-06-17/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
