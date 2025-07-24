@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-07-22</title><link>https://sk3rts.rocks/icymi/icymi-2025-07-22/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-07-22/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-07-23</title><link>https://sk3rts.rocks/icymi/icymi-2025-07-23/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-07-23/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html">Threat Actor Mimo Targets Magento and Docker to Deploy Crypto Miners and Proxyware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html">New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html">Kerberoasting Detections: A New Approach to a Decade-Old Challenge&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html">Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html">CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html">CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-07-22</title><link>https://sk3rts.rocks/icymi/icymi-2025-07-22/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-07-22/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
