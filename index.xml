@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-09-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-09-11/</link><pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-09-11/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-09-12</title><link>https://sk3rts.rocks/icymi/icymi-2025-09-12/</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-09-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html">Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html">Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html">New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html">Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html">Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html">Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/">Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-09-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-09-11/</link><pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-09-11/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
