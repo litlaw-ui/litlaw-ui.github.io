@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-10-27</title><link>https://sk3rts.rocks/icymi/icymi-2025-10-27/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-10-27/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-10-28</title><link>https://sk3rts.rocks/icymi/icymi-2025-10-28/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-10-28/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html">New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html">New Android Trojan &amp;lsquo;Herodotus&amp;rsquo; Outsmarts Anti-Fraud Systems by Typing Like a Human&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html">Researchers Expose GhostCall and GhostHire: BlueNoroff&amp;rsquo;s New Malware Chains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html">Why Early Threat Detection Is a Must for Long-Term Business Growth&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html">Is Your Google Workspace as Secure as You Think it is?&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html">Chrome Zero-Day Exploited to Deliver Italian Memento Labs&amp;rsquo; LeetAgent Spyware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html">SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-10-27</title><link>https://sk3rts.rocks/icymi/icymi-2025-10-27/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-10-27/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
