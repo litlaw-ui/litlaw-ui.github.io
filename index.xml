@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-11-30</title><link>https://sk3rts.rocks/icymi/icymi-2025-11-30/</link><pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-11-30/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-01</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-01/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-01/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html">India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html">ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html">⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp;amp; More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html">Webinar: The &amp;ldquo;Agentic&amp;rdquo; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html">New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-11-30</title><link>https://sk3rts.rocks/icymi/icymi-2025-11-30/</link><pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-11-30/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html">CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV&lt;/a>&lt;/li>
