@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-09</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-09/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-09/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-10</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-10/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-10/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html">React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html">.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html">Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html">Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html">Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html">Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-12-09</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-09/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-09/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
