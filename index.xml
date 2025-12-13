@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-11/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-11/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-12</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-12/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html">Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html">New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html">Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html">New React RSC Vulnerabilities Enable DoS and Source Code Exposure&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html">React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html">CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-12-11</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-11/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-11/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
