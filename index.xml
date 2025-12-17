@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-15</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-15/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-15/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-16</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-16/</link><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-16/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html">Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html">Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html">Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html">Why Data Security and Privacy Need to Start in Code&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html">Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html">React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html">Google to Shut Down Dark Web Monitoring Tool in February 2026&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2025-12-15</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-15/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-15/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
