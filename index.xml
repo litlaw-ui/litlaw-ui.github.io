@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-26</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-26/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-26/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2025-12-27</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-27/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-27/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html">New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/">The US Must Stop Underestimating Drone Warfare&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/">Mongobleed PoC Exploit Tool Released for MongoDB Flaw that Exposes Sensitive Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/teamviewer-dex-vulnerabilities/">TeamViewer DEX Vulnerabilities Let Attackers Trigger DoS Attack and Expose Sensitive Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/m-files-vulnerability/">M-Files Vulnerability Let Attacker Capture Session Tokens of Other Active Users&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/">OpenAI&amp;rsquo;s ChatGPT ads will allegedly prioritize sponsored content in answers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2025-12-26</title><link>https://sk3rts.rocks/icymi/icymi-2025-12-26/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2025-12-26/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
