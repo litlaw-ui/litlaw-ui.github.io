@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-01-14</title><link>https://sk3rts.rocks/icymi/icymi-2026-01-14/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-01-14/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-01-15</title><link>https://sk3rts.rocks/icymi/icymi-2026-01-15/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-01-15/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html">AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html">Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html">Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html">ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html">Model Security Is the Wrong Frame – The Real Risk Is Workflow Security&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html">4 Outdated Habits Destroying Your SOC&amp;rsquo;s MTTR in 2026&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-01-14</title><link>https://sk3rts.rocks/icymi/icymi-2026-01-14/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-01-14/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
