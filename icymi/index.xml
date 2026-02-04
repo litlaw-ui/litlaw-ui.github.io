@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-02</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-02/</link><pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-02/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-03</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-03/</link><pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-03/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html">Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html">[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html">Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html">When Cloud Outages Ripple Across the Internet&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html">APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html">Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html">Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-02-02</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-02/</link><pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-02/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
