@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-15</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-15/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-15/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-16</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-16/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-16/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html">Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html">Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html">Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet &amp;amp; AI Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html">Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html">New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html">New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/">The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-02-15</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-15/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-15/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
