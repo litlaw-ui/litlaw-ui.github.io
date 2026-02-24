@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-22</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-22/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-22/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-23</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-23/</link><pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-23/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html">APT28 Targeted European Entities Using Webhook-Based Macro Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html">Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html">⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp;amp; More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html">How Exposed Endpoints Increase Risk Across LLM Infrastructure&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html">Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html">MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/">US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-02-22</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-22/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-22/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
