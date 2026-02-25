@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-23</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-23/</link><pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-23/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-24</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-24/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-24/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html">RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html">UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html">Identity Prioritization isn&amp;rsquo;t a Backlog Problem - It&amp;rsquo;s a Risk Math Problem&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html">Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html">UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html">Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-02-23</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-23/</link><pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-23/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
