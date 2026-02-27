@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-25/</link><pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-25/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-02-26</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-26/</link><pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html">Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html">UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html">ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp;amp; 15+ Stories&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html">Expert Recommends: Prepare for PQC Right Now&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html">Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html">Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html">Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-02-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-02-25/</link><pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-02-25/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
