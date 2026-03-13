@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-03-11</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-11/</link><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-11/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-03-12</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-12/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-12/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html">Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html">Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html">How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html">ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp;amp; More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html">Attackers Don&amp;rsquo;t Just Send Phishing Emails. They Weaponize Your SOC&amp;rsquo;s Workload&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html">Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-03-11</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-11/</link><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-11/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
