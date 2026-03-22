@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-03-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-20/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-03-21</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-21/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-21/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html">FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html">Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html">Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html">CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/">Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/">Critical Quest KACE Vulnerability Potentially Exploited in Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/malicious-script-injection-in-trivy/">Hackers Compromise Trivy Scanner to Inject malicious Scripts and Steal Login Credentials&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-03-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-03-20/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
