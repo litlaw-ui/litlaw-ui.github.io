@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-04-05</title><link>https://sk3rts.rocks/icymi/icymi-2026-04-05/</link><pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-04-05/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-04-06</title><link>https://sk3rts.rocks/icymi/icymi-2026-04-06/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-04-06/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html">Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html">DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html">Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html">⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html">How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html">Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html">BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-04-05</title><link>https://sk3rts.rocks/icymi/icymi-2026-04-05/</link><pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-04-05/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
