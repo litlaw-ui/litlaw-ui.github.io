@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-04</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-04/</link><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-04/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-05</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-05/</link><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-05/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html">Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html">DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html">China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html">The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html">MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html">We Scanned 1 Million Exposed AI Services. Here&amp;rsquo;s How Bad the Security Actually Is&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html">ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-05-04</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-04/</link><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-04/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
