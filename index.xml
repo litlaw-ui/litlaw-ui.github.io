@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-15</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-15/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-15/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-17</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-17/</link><pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html">NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html">Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/grafana-labs-security-breach/">Grafana Labs Security Breach – Hackers Access GitHub and Download Codebase&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/first-public-macos-kernel-exploit/">First Public macOS Kernel Exploit on Apple M5 Prepared Using Mythos Preview in Five Days&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/">New Windows &amp;lsquo;MiniPlasma&amp;rsquo; zero-day exploit gives SYSTEM access, PoC released&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/">Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ndash; MTZ&lt;/strong>&lt;/p></description></item><item><title>ICYMI: 2026-05-15</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-15/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-15/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
