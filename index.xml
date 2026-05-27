@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-25/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-25/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-26</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-26/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html">MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html">[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html">Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html">MFA Prompt Bombing: Why Your Second Factor Isn&amp;rsquo;t Saving You&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html">CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html">Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html">KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-05-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-25/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-25/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
