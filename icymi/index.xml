@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-28</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-28/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-28/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-05-29</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-29/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-29/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html">ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html">Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html">New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html">What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html">Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html">Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/">The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-05-28</title><link>https://sk3rts.rocks/icymi/icymi-2026-05-28/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-05-28/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
