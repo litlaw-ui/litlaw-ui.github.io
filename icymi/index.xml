@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-06-30</title><link>https://sk3rts.rocks/icymi/icymi-2026-06-30/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-06-30/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-01</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-01/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-01/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html">Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html">19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html">SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html">VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html">Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html">Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html">Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-06-30</title><link>https://sk3rts.rocks/icymi/icymi-2026-06-30/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-06-30/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
