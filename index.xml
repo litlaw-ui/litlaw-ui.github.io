@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-13</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-13/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-13/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-14</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-14/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-14/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html">Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html">SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html">Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html">LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html">RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html">11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-07-13</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-13/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-13/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
