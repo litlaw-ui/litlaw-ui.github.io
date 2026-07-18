@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-16</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-16/</link><pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-16/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-17</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-17/</link><pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html">New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html">OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html">Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html">New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html">GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html">Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html">E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-07-16</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-16/</link><pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-16/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
