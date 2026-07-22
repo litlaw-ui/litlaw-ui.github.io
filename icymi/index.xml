@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-20/</link><pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-20/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-21</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-21/</link><pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-21/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html">Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html">AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html">Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html">Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html">Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html">Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-07-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-20/</link><pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-20/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
