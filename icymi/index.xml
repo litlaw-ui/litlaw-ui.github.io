@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-27</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-27/</link><pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-27/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-07-28</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-28/</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-28/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html">Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html">Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html">24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html">JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html">Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html">Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-07-27</title><link>https://sk3rts.rocks/icymi/icymi-2026-07-27/</link><pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-07-27/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
