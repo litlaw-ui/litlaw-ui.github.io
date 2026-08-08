@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-08-06</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-06/</link><pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-06/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-08-07</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-07/</link><pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-07/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html">Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html">ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html">UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html">New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/growing-up-hard-way.html">Growing Up The Hard Way&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html">18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html">New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-08-06</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-06/</link><pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-06/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
