@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-08-18</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-18/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-08-19</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-19/</link><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-19/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html">Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html">OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html">SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html">Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html">Phishing 3.0: The Fight Moves to Agent Versus Agent&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html">StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-08-18</title><link>https://sk3rts.rocks/icymi/icymi-2026-08-18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-08-18/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
