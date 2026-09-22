@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-20/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-20/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Icymis on Cybersecurity Blog</title><link>https://sk3rts.rocks/icymi/</link><description>Recent content in Icymis on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/icymi/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-21</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-21/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-21/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html">Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/contagious-interview-campaign.html">Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html">Google Fined €403 Million Over GDPR Violations Tied to Location Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html">⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html">TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html">ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-09-20</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-20/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-20/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
