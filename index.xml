@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-21</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-21/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-21/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-22</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-22/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/check-point-warns-of-management-server.html">Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html">WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html">Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html">Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html">Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html">Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-09-21</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-21/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-21/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
