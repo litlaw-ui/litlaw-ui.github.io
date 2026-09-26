@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-24</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-24/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-24/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-25/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-25/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/compromised-github-actions-came-back.html">Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html">PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html">The SOC Doesn&amp;rsquo;t Need to Start Over with Every Alert&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html">Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html">Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html">Cloudflare Fixes Flaw That Let One Container Read Another Customer&amp;rsquo;s Leftover Disk Data&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html">WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-09-24</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-24/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-24/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
