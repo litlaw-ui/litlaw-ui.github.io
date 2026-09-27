@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-25/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-25/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-09-26</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-26/</link><pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html">Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html">Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html">Zero Trust for AI Agents Starts With Fixing Zero Visibility&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html">Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html">SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html">Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-09-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-09-25/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-09-25/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
