@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-10-16</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-16/</link><pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-16/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-10-17</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-17/</link><pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-17/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html">MALFEX npm Package &amp;lsquo;imgdecode&amp;rsquo; Hides Shellcode Loader in Windows Native Addon&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html">Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/">Encryption Is Getting Squeezed From All Sides&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/">Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/claude-ai-cryptography-mystery/">Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/connectwise-credentials-microsoft-365-accounts/">Hackers used Compromised ConnectWise Backup Credentials to Hack 173 Microsoft 365 Accounts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/">Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-10-16</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-16/</link><pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-16/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
