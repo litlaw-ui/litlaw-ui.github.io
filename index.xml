@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-10-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-25/</link><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-25/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity Blog</title><link>https://sk3rts.rocks/</link><description>Recent content on Cybersecurity Blog</description><generator>Hugo</generator><language>en</language><copyright>Matthew Toms-Zuberec</copyright><lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sk3rts.rocks/index.xml" rel="self" type="application/rss+xml"/><item><title>ICYMI: 2026-10-26</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-26/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-26/</guid><description>&lt;hr>
+&lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html">Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/php-issues-second-windows-security.html">PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html">Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html">⚡ Weekly Recap: This2Shell, That2Shell, Everything&amp;rsquo;s an RCE? Rogue AI, Supply Chain Chaos and More&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html">Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html">Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses&lt;/a>&lt;/p></description></item><item><title>ICYMI: 2026-10-25</title><link>https://sk3rts.rocks/icymi/icymi-2026-10-25/</link><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><guid>https://sk3rts.rocks/icymi/icymi-2026-10-25/</guid><description>&lt;hr>
 &lt;h2 id="latest-headlines">Latest Headlines&lt;/h2>
 &lt;ul>
 &lt;li>
